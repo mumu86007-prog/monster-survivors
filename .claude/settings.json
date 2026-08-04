@@ -6,7 +6,8 @@
       "Bash(git push *)",
       "Bash(git commit *)",
       "Bash(git pull *)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "WebFetch(domain:omggame.store)"
     ]
   }
 }

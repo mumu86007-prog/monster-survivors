@@ -321,6 +321,15 @@
     </section>
 
     <!-- ═══════════════════════════════════════════════════════════ -->
+    <!-- TRENDING NOW                                                   -->
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <section id="trending" style="max-width: 1280px; margin: 0 auto; padding: 0 20px 48px;">
+        <h2 class="section-title">🔥 Trending Now</h2>
+        <p class="section-subtitle">The hottest games everyone's playing right now</p>
+        <div class="game-grid" id="trendingGrid"></div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════ -->
     <!-- POPULAR GAMES                                                 -->
     <!-- ═══════════════════════════════════════════════════════════ -->
     <section id="popular" style="max-width: 1280px; margin: 0 auto; padding: 0 20px 48px;">
@@ -381,7 +390,7 @@
                 <a href="#games" style="color: var(--text-muted); text-decoration: none;">All Games</a>
                 <a href="#categories" style="color: var(--text-muted); text-decoration: none;">Categories</a>
                 <a href="#popular" style="color: var(--text-muted); text-decoration: none;">Popular</a>
-                <a href="/privacy.html" style="color: var(--text-muted); text-decoration: none;">Privacy Policy</a> | <a href="/about.html" style="color: var(--text-muted); text-decoration: none;">About</a> | <a href="/best-racing-games.html" style="color: var(--text-muted); text-decoration: none;">Best Racing</a> | <a href="/best-puzzle-games.html" style="color: var(--text-muted); text-decoration: none;">Best Puzzle</a> | <a href="/best-action-games.html" style="color: var(--text-muted); text-decoration: none;">Best Action</a>
+                <a href="/privacy.html" style="color: var(--text-muted); text-decoration: none;">Privacy Policy</a> | <a href="/about.html" style="color: var(--text-muted); text-decoration: none;">About</a> | <a href="/all-games.html" style="color: var(--text-muted); text-decoration: none;">All Games</a> | <a href="/best-racing-games.html" style="color: var(--text-muted); text-decoration: none;">Best Racing</a> | <a href="/best-puzzle-games.html" style="color: var(--text-muted); text-decoration: none;">Best Puzzle</a> | <a href="/best-action-games.html" style="color: var(--text-muted); text-decoration: none;">Best Action</a> | <a href="/best-sports-games.html" style="color: var(--text-muted); text-decoration: none;">Best Sports</a> | <a href="/best-arcade-games.html" style="color: var(--text-muted); text-decoration: none;">Best Arcade</a> | <a href="/best-adventure-games.html" style="color: var(--text-muted); text-decoration: none;">Best Adventure</a> | <a href="/best-strategy-games.html" style="color: var(--text-muted); text-decoration: none;">Best Strategy</a> | <a href="/best-simulation-games.html" style="color: var(--text-muted); text-decoration: none;">Best Simulation</a>
                 <a href="/privacy.html" style="color: var(--text-muted); text-decoration: none;">Terms of Service</a>
             </nav>
             <p>&copy; 2024 omggame.store — All rights reserved.</p>
@@ -404,6 +413,7 @@
             const res = await fetch('/data/games.json');
             allGames = await res.json();
             renderAllGames(allGames);
+            renderTrending(allGames);
             renderPopular(allGames);
             document.getElementById('gameCount').textContent = `${allGames.length} games available`;
         } catch (err) {
@@ -414,6 +424,12 @@
 
     function renderAllGames(games) {
         document.getElementById('gameGrid').innerHTML = games.map(renderGameCard).join('');
+    }
+
+    function renderTrending(games) {
+        var trendingSlugs = ['fnf-funk-3d','five-nights-at-poppy','velocity-rush','stickman-gta-city','block-blast','monster-survivors','geometry-vector','dinosaur-game'];
+        var trending = trendingSlugs.map(function(s) { return games.find(function(g) { return g.slug === s }); }).filter(Boolean);
+        document.getElementById('trendingGrid').innerHTML = trending.map(renderGameCard).join('');
     }
 
     function renderPopular(games) {

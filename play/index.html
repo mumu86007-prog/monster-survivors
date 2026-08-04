@@ -144,6 +144,13 @@
         </div>
     </header>
 
+    <!-- Breadcrumb -->
+    <nav id="breadcrumb" style="max-width: 1280px; margin: 0 auto; padding: 16px 20px 0; font-size: 13px; color: var(--text-muted);">
+        <a href="/" style="color: var(--text-muted); text-decoration: none;">Home</a> &rsaquo;
+        <a id="bcCat" href="#" style="color: var(--text-muted); text-decoration: none;">Category</a> &rsaquo;
+        <span id="bcGame" style="color: white;">Game</span>
+    </nav>
+
     <!-- Game Section -->
     <main style="max-width: 1280px; margin: 0 auto; padding: 24px 20px;">
         <!-- Ad above game -->
@@ -293,6 +300,11 @@
             author: { '@type': 'Organization', name: 'omggame.store' },
             publisher: { '@type': 'Organization', name: 'omggame.store' }
         });
+
+        // Breadcrumb
+        document.getElementById('bcCat').href = `/category/?cat=${game.category}`;
+        document.getElementById('bcCat').textContent = game.category.charAt(0).toUpperCase() + game.category.slice(1);
+        document.getElementById('bcGame').textContent = game.title;
 
         // Update SEO meta
         document.title = `${game.title} - Play Free Online | omggame.store`;

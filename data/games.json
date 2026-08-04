@@ -3,342 +3,378 @@
     "id": "monster-survivors",
     "title": "Monster Survivors",
     "slug": "monster-survivors",
-    "description": "Survive endless waves of monsters in this thrilling action-packed survival game. Collect power-ups, upgrade your character, and fight to stay alive as long as possible!",
-    "shortDescription": "Survive the monster apocalypse in this thrilling action-packed survival game!",
+    "description": "Monster Survivors is an intense roguelite survival action game where you face endless waves of monsters in a fight for survival. As time progresses, enemies grow stronger and more numerous, forcing you to constantly upgrade your character and adapt your strategy.\n\nIn Monster Survivors, you control a character that automatically attacks nearby enemies. Your goal is simple: survive as long as possible. You move using WASD or arrow keys while your character auto-targets and attacks the closest threats. Defeated enemies drop experience gems that fill your level-up meter. Each time you level up, you're presented with a choice of upgrades — from increased movement speed and attack damage to new abilities like area-of-effect strikes, projectile attacks, and defensive shields.\n\nThe game features dozens of unique upgrades and power-ups, creating endless build combinations. You might focus on becoming a fast-moving glass cannon, or build a tanky character that can absorb hits while dishing out steady damage. The key to success is balancing offense and defense while positioning yourself strategically to avoid getting surrounded.\n\nWhat makes Monster Survivors truly addictive is the 'just one more run' factor. Each death teaches you something new, and each run feels different thanks to the random upgrade system. The pixel-art graphics are charming, the soundtrack is energetic, and the gameplay loop is perfectly tuned for both quick sessions and marathon gaming.\n\nWhether you're a casual player looking for some action or a hardcore gamer chasing high scores, Monster Survivors delivers an engaging experience that keeps you coming back for more.",
+    "shortDescription": "Survive endless monster waves in this addictive roguelite action game!",
     "category": "action",
-    "tags": ["survival", "action", "roguelite", "combat", "2d"],
+    "tags": ["survival", "action", "roguelite", "combat", "2d", "upgrade"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html",
-    "controls": "WASD or Arrow Keys to move, auto-attack nearby enemies, collect gems to level up",
+    "controls": "WASD or Arrow Keys to move. Your character auto-attacks nearby enemies. Collect green gems to level up and choose upgrades.",
     "tips": [
-      "Prioritize movement speed upgrades early on",
-      "Don't get cornered — keep moving in open areas",
-      "Gem magnets help you level up faster",
-      "Balance offense and defense upgrades"
+      "Prioritize movement speed and area damage upgrades early — they keep you alive",
+      "Don't get cornered — always keep an escape route open",
+      "Magnet upgrades help you collect gems faster and level up more quickly",
+      "Focus on maxing out 2-3 upgrade paths rather than spreading thin",
+      "Learn enemy patterns — some chase, some predict your movement"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.5
   },
   {
     "id": "block-blast",
     "title": "Block Blast",
     "slug": "block-blast",
-    "description": "Match and blast colorful blocks in this addictive puzzle game! Drag blocks onto the grid, complete rows and columns, and score big combos. A modern twist on classic block puzzle games.",
-    "shortDescription": "Match and blast colorful blocks in this addictive puzzle game!",
+    "description": "Block Blast is a fresh take on the classic block puzzle genre that has taken the gaming world by storm. Unlike traditional Tetris-style games, Block Blast gives you complete control — you decide where each piece goes on the 8x8 grid, with no time pressure and no falling blocks.\n\nThe gameplay is elegantly simple: you're presented with three block pieces at a time. Drag and drop them onto the grid to create complete rows or columns, which then clear with a satisfying blast animation. The challenge lies in fitting irregularly shaped pieces together efficiently. As the grid fills up, you need to think several moves ahead to create space for upcoming pieces.\n\nWhat sets Block Blast apart is its relaxing yet engaging nature. There's no timer counting down, no enemies rushing at you — just pure, satisfying puzzle-solving. The colorful blocks and smooth animations make every successful clear feel rewarding. Combo clears (clearing multiple rows/columns at once) earn bonus points and create spectacular chain reactions.\n\nBlock Blast is perfect for players of all ages. Kids enjoy the colorful visuals and simple mechanics, while adults appreciate the strategic depth that emerges at higher levels. It's an ideal game for short breaks, commuting, or winding down before bed. The game saves your progress automatically, so you can pick up right where you left off.\n\nWith its universal appeal, Block Blast has become one of the most-played puzzle games online. Its blend of accessibility and depth means you can play for 2 minutes or 2 hours and have an equally great time.",
+    "shortDescription": "Drag, drop, and blast colorful blocks in this addictive puzzle game!",
     "category": "puzzle",
-    "tags": ["puzzle", "block", "brain", "match", "2d"],
+    "tags": ["puzzle", "block", "brain", "match", "2d", "relaxing"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.html",
-    "controls": "Drag and drop blocks onto the 8x8 grid. Complete full rows or columns to clear them.",
+    "controls": "Click and drag blocks from the selection area onto the 8x8 grid. Complete full rows or columns to clear them and earn points.",
     "tips": [
-      "Plan ahead — look at the next pieces before placing",
-      "Keep the grid as open as possible",
-      "Aim for combo clears (multiple rows/columns at once)",
-      "Don't fill corners too quickly"
+      "Always check the three upcoming pieces before placing your current blocks",
+      "Keep the center of the grid as open as possible — corners fill up fast",
+      "Aim for combo clears: clearing multiple rows/columns in one placement",
+      "Don't fill corners too early — they're hard to clear later",
+      "If you can't fit a piece perfectly, place it where it blocks the least future options"
     ],
     "difficulty": "Easy",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.7
   },
   {
     "id": "2048",
     "title": "2048",
     "slug": "2048",
-    "description": "The classic number puzzle game! Merge tiles with the same numbers to reach 2048 and beyond. Simple to learn but hard to master — can you beat the high score?",
-    "shortDescription": "Merge numbers to reach 2048 in this classic puzzle game!",
+    "description": "2048 is the legendary number puzzle that became a worldwide phenomenon. The goal is deceptively simple: slide numbered tiles across a 4x4 grid, merging matching numbers to create larger ones, until you reach the elusive 2048 tile. But don't be fooled — this game requires strategic thinking, planning, and a touch of luck.\n\nThe rules are straightforward. Use arrow keys or swipe to move all tiles in one direction. When two tiles with the same number collide, they merge into their sum. After each move, a new tile (2 or 4) appears in a random empty space. The game ends when the grid is full and no more moves are possible. Your score is the sum of all merged values.\n\nWhat makes 2048 so compelling is the depth hiding beneath its simple surface. Every move matters — a single careless swipe can ruin a carefully constructed position. Expert players develop specific strategies: corner-building (keeping the highest tile in one corner), edge-stacking (maintaining a descending sequence along an edge), and pattern-based movement systems that minimize randomness.\n\n2048 has spawned countless variations and clones since its creation by Gabriele Cirulli in 2014, but the original formula remains unbeatable. It's a perfect brain-training exercise that sharpens logical thinking while being genuinely fun. The 'aha!' moment when you finally reach 2048 for the first time is unforgettable.\n\nWhether you're killing time on a commute or seriously chasing high scores, 2048 delivers one of the most elegant and addictive puzzle experiences ever created.",
+    "shortDescription": "Merge numbers to reach 2048 in the legendary puzzle game!",
     "category": "puzzle",
-    "tags": ["puzzle", "brain", "math", "merge", "logic", "2d"],
+    "tags": ["puzzle", "brain", "math", "merge", "logic", "2d", "numbers"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/2048/index.html",
-    "controls": "Arrow Keys or swipe to move all tiles. When two tiles with the same number touch, they merge.",
+    "controls": "Arrow Keys or swipe (on mobile) to move all tiles. Matching numbers merge. New tiles appear after each move.",
     "tips": [
-      "Pick a corner and try to keep your highest tile there",
-      "Don't move in the opposite direction of your corner",
-      "Keep your highest row filled at all times",
-      "Patience is key — don't rush"
+      "Pick a corner (e.g., bottom-right) and keep your highest tile locked there",
+      "Never move your highest tile away from its corner",
+      "Keep your top row filled with high-value tiles at all times",
+      "Only move in two directions primarily (e.g., down and right) to maintain control",
+      "The game is not over until you can't move — some positions look hopeless but have a way out"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.6
   },
   {
     "id": "drift-hunters-pro",
     "title": "Drift Hunters Pro",
     "slug": "drift-hunters-pro",
-    "description": "The ultimate drifting experience! Choose from a huge selection of cars, customize your ride, and master the art of drifting across stunning tracks. Earn points and unlock new cars!",
-    "shortDescription": "Master the art of drifting with customizable cars and tracks!",
+    "description": "Drift Hunters Pro is the ultimate drifting simulator that puts you behind the wheel of the world's most iconic cars. From Japanese tuners to European sports cars, each vehicle is lovingly detailed with realistic physics and handling. Choose your car, customize everything from engine to tires, and hit the track to earn points through stylish, controlled drifts.\n\nThe game features multiple meticulously designed tracks, each offering unique challenges. Tight mountain passes test your precision, while wide industrial circuits let you maintain massive drift angles. The drift scoring system rewards speed, angle, and duration — the longer and smoother your drift, the higher your score multiplier climbs.\n\nWhat sets Drift Hunters Pro apart is its deep customization system. You earn in-game currency from your drifting performance and invest it back into your garage. Upgrade your engine for more power, adjust your suspension for better handling, or buy a whole new car. Visual customization lets you change paint colors, rims, and body kits to create your perfect drift machine.\n\nThe controls are accessible to newcomers but reward skilled players. Use WASD or arrow keys for movement, the handbrake (Space) to initiate drifts, and careful throttle control to maintain them. The camera options let you switch between cinematic angles and practical driving views.\n\nFor car enthusiasts and casual gamers alike, Drift Hunters Pro offers one of the most satisfying driving experiences available in a browser. The combination of realistic physics, deep customization, and competitive scoring creates an addictive loop that keeps players coming back to perfect their skills.",
+    "shortDescription": "Ultimate drifting simulator with realistic cars and deep customization!",
     "category": "racing",
-    "tags": ["racing", "drift", "car", "3d", "stunt"],
+    "tags": ["racing", "drift", "car", "3d", "stunt", "simulator", "customization"],
     "iframeUrl": "https://www.onlinegames.io/games/2023/unity/drift-hunters-pro/index.html",
-    "controls": "WASD or Arrow Keys to drive, Space for handbrake, C to change camera",
+    "controls": "WASD or Arrow Keys to drive. Space for handbrake (initiates drifts). C to cycle camera views. Mouse to navigate menus.",
     "tips": [
-      "Use handbrake (Space) to initiate drifts",
-      "Longer drifts = more points",
-      "Upgrade your car's handling first",
-      "Try different cars — each handles differently"
+      "Tap the handbrake, don't hold it — a quick tap is enough to break traction",
+      "Counter-steer into the drift to maintain angle without spinning out",
+      "Upgrade tires and suspension first — they have the biggest impact on handling",
+      "Chain multiple corners together for massive score multipliers",
+      "Each car handles differently — spend time learning your favorite"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.5
   },
   {
     "id": "gta-simulator",
     "title": "GTA Simulator",
     "slug": "gta-simulator",
-    "description": "Explore a massive open-world city, drive amazing cars, and complete missions in this action-packed GTA-style simulator! Free roam, cause chaos, and experience the ultimate urban adventure.",
-    "shortDescription": "Explore an open-world city, drive cars, and complete missions!",
+    "description": "GTA Simulator brings the open-world crime action experience directly to your browser. Explore a sprawling 3D city filled with traffic, pedestrians, missions, and endless possibilities. Whether you want to follow the storyline, cause mayhem, or just cruise around discovering hidden areas, the choice is yours.\n\nThe game drops you into a living, breathing city with realistic day-night cycles and dynamic weather. You can walk, run, or commandeer any vehicle you see — from sedans and sports cars to trucks and SUVs. Each vehicle handles differently, and finding the fastest cars is part of the thrill. The city features diverse districts including downtown skyscrapers, suburban neighborhoods, industrial zones, and scenic coastal roads.\n\nMissions provide structure and rewards, tasking you with everything from high-speed chases to tactical shootouts. Completing missions earns money that you can spend on better weapons, body armor, and vehicle upgrades. The combat system combines third-person shooting with a cover mechanic, letting you strategically take down enemies.\n\nBut the real magic of GTA Simulator is the freedom. Want to ignore missions and just explore? Go ahead. Feel like seeing how long you can survive against the police? The wanted system escalates as you cause more chaos, bringing helicopters and SWAT teams. The ragdoll physics add a layer of humor to every crash and explosion.\n\nFor fans of open-world games, GTA Simulator delivers an impressive amount of freedom and fun — all without requiring any downloads or installations. It captures the essence of what makes the genre great in a browser-friendly package.",
+    "shortDescription": "Explore an open-world city, drive cars, complete missions, and cause chaos!",
     "category": "action",
-    "tags": ["action", "gta", "driving", "shooting", "open-world", "3d"],
+    "tags": ["action", "gta", "driving", "shooting", "open-world", "3d", "crime"],
     "iframeUrl": "https://www.onlinegames.io/games/2023/unity2/gta-simulator/index.html",
-    "controls": "WASD to move, Mouse to aim/shoot, E to enter vehicles, Tab for menu",
+    "controls": "WASD to move. Mouse to aim and shoot. E to enter/exit vehicles. Tab to open menu. Shift to sprint.",
     "tips": [
-      "Complete missions to earn money for better weapons",
-      "Find the fastest cars in the city center",
-      "Use cover during shootouts",
-      "Explore the map to find hidden items"
+      "Start with missions — they teach the mechanics and give good starting money",
+      "Sports cars are fastest but SUVs can take more damage during chases",
+      "Use cover during shootouts — standing in the open gets you killed fast",
+      "The police wanted level goes 1-5 stars — at 3+ stars, find a hiding spot",
+      "Explore alleyways and parking garages for hidden vehicles and pickups"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.4
   },
   {
     "id": "8-ball-pool",
     "title": "8 Ball Pool Billiard",
     "slug": "8-ball-pool",
-    "description": "Play the world's most popular pool game online! Challenge yourself with realistic physics, aim carefully, and pocket all your balls before sinking the 8-ball. The ultimate billiards experience!",
-    "shortDescription": "Play realistic 8 Ball Pool with smooth physics and precise aiming!",
+    "description": "8 Ball Pool Billiard brings the world's most popular cue sport to your browser with stunning 3D graphics and realistic physics. Whether you're a seasoned pool shark or a complete beginner, this game offers an incredibly authentic billiards experience that's easy to pick up but takes real skill to master.\n\nThe game follows standard 8-ball rules: players are assigned either solids or stripes, and must pocket all their balls before legally sinking the 8-ball to win. The 3D table view lets you rotate around the table to line up the perfect shot. A power meter controls your shot strength, and an aiming line helps you visualize the trajectory.\n\nWhat makes this pool game stand out is the physics engine. Ball spin (English), cushion bounce, and collision physics all behave realistically. You can apply top spin, back spin, and side spin to control the cue ball's position after each shot. This opens up advanced strategies like position play — setting up your next shot before you even take the current one.\n\nThe game supports single-player practice and multiplayer matches. In single-player, you compete against an AI opponent with adjustable difficulty. The multiplayer mode lets you challenge other players online, adding real competitive stakes to every match.\n\n8 Ball Pool Billiard isn't just a game — it's a legitimate pool simulation that can actually improve your real-world understanding of angles, spin, and strategy. And with no downloads required, you can play a quick match anytime you have a few minutes to spare.",
+    "shortDescription": "Realistic 3D pool with smooth physics, spin control, and multiplayer!",
     "category": "sports",
-    "tags": ["sports", "pool", "billiard", "ball", "3d", "multiplayer"],
+    "tags": ["sports", "pool", "billiard", "ball", "3d", "multiplayer", "strategy"],
     "iframeUrl": "https://www.onlinegames.io/games/2022/unity3/8-ball-pool-billiard/index.html",
-    "controls": "Mouse to aim and adjust power, click to shoot",
+    "controls": "Mouse to aim (move cursor), adjust power (hold and drag), and apply spin (click on cue ball). Release to shoot.",
     "tips": [
-      "Line up your shots carefully — think 2-3 shots ahead",
-      "Use spin (English) to position the cue ball",
-      "Break hard but controlled",
-      "Defense is as important as offense in pool"
+      "Think 2-3 shots ahead — where will the cue ball end up after this shot?",
+      "Use backspin (hit below center) to stop the cue ball from following the target ball",
+      "Break hard but controlled — aim for the second ball from the edge in the rack",
+      "Defensive shots (safeties) are as important as offensive ones in competitive play",
+      "Practice straight shots first — they teach you the relationship between aim, power, and spin"
     ],
     "difficulty": "Medium",
-    "players": "1-2 Players"
+    "players": "1-2 Players",
+    "rating": 4.6
   },
   {
     "id": "stickman-parkour",
     "title": "Stickman Parkour",
     "slug": "stickman-parkour",
-    "description": "Run, jump, flip, and parkour through challenging obstacle courses as a nimble stickman! Test your reflexes across increasingly difficult levels with smooth animations and satisfying movement.",
-    "shortDescription": "Run and parkour through challenging obstacle courses!",
+    "description": "Stickman Parkour is a fast-paced platformer that tests your reflexes and timing to the absolute limit. Guide your nimble stickman through increasingly difficult obstacle courses filled with spikes, gaps, moving platforms, and wall jumps. The game's simple controls hide a surprising depth of movement mechanics that skilled players can exploit to achieve perfect runs.\n\nThe game consists of multiple levels, each designed as a parkour course with a start and finish line. Your goal is to reach the end as quickly as possible while avoiding deadly obstacles. Along the way, you'll encounter wall jumps, double jumps, sliding under barriers, and grappling sections that keep the gameplay fresh and challenging.\n\nWhat makes Stickman Parkour so satisfying is the fluid movement system. Your character responds instantly to inputs, and chaining together wall jumps, slides, and leaps creates a beautiful flow state when you're in the zone. The stickman ragdoll physics also provide comedic relief — failed attempts result in hilarious flailing animations that take the sting out of dying for the 50th time.\n\nThe difficulty curve is carefully crafted. Early levels introduce mechanics one at a time, letting you master each before combining them. Later levels demand pixel-perfect timing and creative use of all movement options. Speedrun enthusiasts will appreciate the level timer, which encourages replaying levels to beat your best time.\n\nFor fans of platformers like Geometry Dash or Fancy Pants Adventure, Stickman Parkour offers a similar thrill with its own unique flavor. It's challenging, addictive, and deeply rewarding for those willing to put in the practice.",
+    "shortDescription": "Run, jump, and parkour through deadly obstacle courses!",
     "category": "adventure",
-    "tags": ["parkour", "platformer", "running", "stickman", "2d", "skill"],
+    "tags": ["parkour", "platformer", "running", "stickman", "2d", "skill", "speedrun"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2024/construct/219/stickman-parkour/index-og.html",
-    "controls": "Arrow Keys or WASD to move and jump, double jump available",
+    "controls": "Arrow Keys or WASD to move and jump. Press jump twice for double jump. Down key to slide under barriers.",
     "tips": [
-      "Time your jumps carefully — rushing leads to falls",
-      "Use momentum to clear larger gaps",
-      "Watch the level ahead before starting",
-      "Practice makes perfect on harder levels"
+      "Momentum is everything — don't stop moving unless you absolutely have to",
+      "Double jump at the peak of your first jump for maximum height",
+      "Watch new obstacles before attempting them — identify the safe timing window",
+      "Wall jumps can save you from falls — jump toward walls even if you think you've missed",
+      "Speed comes with practice — focus on consistency first, then optimize for time"
     ],
     "difficulty": "Hard",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.3
   },
   {
     "id": "solitaire",
     "title": "Classic Solitaire",
     "slug": "solitaire",
-    "description": "The timeless card game you know and love! Play Classic Solitaire (Klondike) with beautiful cards, smooth animations, and a clean interface. Perfect for relaxing or sharpening your mind.",
-    "shortDescription": "Play the timeless Classic Solitaire card game online!",
+    "description": "Classic Solitaire brings the timeless Klondike card game to your browser with beautiful visuals and smooth, intuitive controls. This is the same Solitaire that has been beloved by millions for generations — now polished to perfection for modern web play.\n\nThe rules are familiar: sort a shuffled deck into four foundation piles by suit, from Ace to King. On the tableau, build descending sequences alternating between red and black cards. Draw from the stock pile to access new cards, and strategically move cards between columns to reveal face-down cards and free up Aces.\n\nWhat makes this version special is the attention to detail. Cards glide smoothly between positions with satisfying animations. The interface is clean and distraction-free, with no unnecessary clutter. You can choose between different card backs and backgrounds to personalize your experience. The game automatically saves your progress, so you never lose a game in progress.\n\nSolitaire is more than just a time-killer — it's genuine brain training. Every move involves decisions about sequencing, probability, and resource management. Should you move that black 7 now, or wait? Is it worth drawing from the stock when you still have tableau moves available? These micro-decisions add up to a mentally engaging experience that sharpens your logical thinking.\n\nWhether you're a Solitaire veteran with thousands of games under your belt or a newcomer learning the rules for the first time, this version offers the definitive digital Solitaire experience. It's perfect for coffee breaks, waiting rooms, or winding down after a long day.",
+    "shortDescription": "The timeless Klondike card game with beautiful animations!",
     "category": "puzzle",
-    "tags": ["puzzle", "card", "brain", "logic", "board", "2d"],
+    "tags": ["puzzle", "card", "brain", "logic", "board", "2d", "classic"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html",
-    "controls": "Click or tap to select and move cards. Stack cards in descending order and alternating colors.",
+    "controls": "Click or tap cards to select them, then click where you want to place them. Double-click to auto-move to foundation. Drag and drop supported.",
     "tips": [
-      "Always draw from the deck before making other moves",
-      "Prioritize revealing face-down cards",
-      "Build foundation piles evenly",
-      "Empty columns are valuable — use them wisely"
+      "Always check the stock pile before making tableau moves",
+      "Prioritize revealing face-down cards — they unlock more options",
+      "Try to build foundation piles evenly rather than rushing one suit",
+      "Empty columns are extremely valuable — place Kings there to open up the tableau",
+      "Draw-1 mode is easier; switch to draw-3 for a greater challenge"
     ],
     "difficulty": "Easy",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.8
   },
   {
     "id": "snake",
     "title": "Snake Classic",
     "slug": "snake",
-    "description": "The legendary Snake game reborn! Guide your snake to eat food, grow longer, and avoid hitting walls or yourself. A nostalgic arcade experience that's simple, fun, and incredibly addictive.",
+    "description": "Snake Classic is a faithful revival of the iconic game that defined mobile gaming in the late 1990s. Guide a hungry snake across a bordered arena, eating food pellets to grow longer while avoiding collisions with walls and your own ever-extending tail. The simple premise belies an increasingly tense and addictive gameplay experience.\n\nThe controls couldn't be simpler: use arrow keys or swipe to change direction. Your snake moves continuously, and each food pellet consumed adds a segment to your tail. The challenge escalates as your snake grows — what was once a spacious arena becomes a tight maze of your own making. One wrong turn and it's game over.\n\nWhat makes Snake Classic so enduring is the perfect balance of simplicity and tension. The early game is relaxed, giving you time to find a rhythm. But as your score climbs into the hundreds and your snake stretches across the screen, every movement becomes a calculated risk. The game creates a unique form of pressure that's entirely self-generated — your only enemy is your own previous decisions.\n\nThis modern web version includes both classic single-player and two-player modes. In two-player mode, you and a friend compete on the same board, each controlling your own snake. The added threat of another player makes for hilarious and chaotic matches.\n\nWith its retro pixel-art aesthetic and responsive controls, Snake Classic proves that great game design is timeless. It's as fun and addictive today as it was on those old Nokia phones — perhaps even more so.",
     "shortDescription": "The legendary Snake game — eat, grow, and survive!",
     "category": "arcade",
-    "tags": ["arcade", "snake", "classic", "2d", "animal"],
+    "tags": ["arcade", "snake", "classic", "2d", "retro", "endless"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2024/phaser/snake/index-og.html",
-    "controls": "Arrow Keys or WASD to change direction. Don't hit the walls or yourself!",
+    "controls": "Arrow Keys or WASD to change direction. Swipe on mobile. Don't hit walls or your own tail!",
     "tips": [
-      "Don't trap yourself in a spiral",
-      "Use the edges of the map to your advantage",
-      "Plan your path a few moves ahead when long",
-      "Speed increases as you grow — stay alert"
+      "Use the edges of the map as a guide when your snake is long",
+      "Plan your route toward the food, not directly at it",
+      "When very long, circle the outer edge and spiral inward",
+      "Don't make sharp U-turns — you'll crash into yourself",
+      "In two-player mode, cutting off the opponent is a valid (and fun) strategy"
     ],
-    "difficulty": "Easy",
-    "players": "1-2 Players"
+    "difficulty": "Medium",
+    "players": "1-2 Players",
+    "rating": 4.3
   },
   {
     "id": "cube-worlds",
     "title": "Cube Worlds",
     "slug": "cube-worlds",
-    "description": "Dive into a vibrant block-based sandbox world! Build, explore, and create anything you can imagine in this Minecraft-style creative adventure. Mine resources, craft tools, and shape your own world!",
-    "shortDescription": "Build, explore, and create in this block-based sandbox world!",
+    "description": "Cube Worlds is a captivating sandbox adventure where creativity knows no bounds. Set in a vibrant block-based universe inspired by the best of the genre, Cube Worlds lets you mine resources, craft tools and weapons, build elaborate structures, and shape the world around you according to your imagination.\n\nThe game starts you in a procedurally generated world filled with diverse biomes — lush forests, arid deserts, snowy mountains, and mysterious caves. Armed with nothing but your fists, you begin by punching trees to collect wood, crafting basic tools, and building a humble shelter before night falls. As you explore deeper, you discover rare ores, hidden underground caverns, and valuable resources that enable increasingly powerful crafting recipes.\n\nBuilding is the heart of Cube Worlds. The block-based construction system is intuitive and satisfying — place and remove blocks to create anything from simple houses to elaborate castles. The only limit is your imagination. Players have built everything from working calculators to scale replicas of famous landmarks within the game.\n\nSurvival adds an engaging layer of challenge. You need to manage hunger, fend off hostile creatures that emerge at night, and navigate treacherous terrain. Crafting armor and weapons is essential for exploration, and torches are your best friend in the dark depths of underground caves.\n\nCube Worlds captures the joy of discovery and creation that makes sandbox games so beloved. Whether you spend hours designing an architectural masterpiece or simply enjoy the meditative loop of mining and crafting, Cube Worlds offers a rich, immersive experience that you can play entirely in your browser.",
+    "shortDescription": "Build, mine, and craft in this block-based sandbox adventure!",
     "category": "adventure",
-    "tags": ["sandbox", "crafting", "block", "minecraft-like", "3d", "building"],
+    "tags": ["sandbox", "crafting", "block", "building", "3d", "survival", "mining"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/cube-worlds/index-og.html",
-    "controls": "WASD to move, Mouse to look/break/place blocks, E for inventory, Space to jump",
+    "controls": "WASD to move. Mouse to look, break, and place blocks. E to open inventory. Space to jump. Shift to sneak (prevents falling off edges).",
     "tips": [
-      "Start by collecting wood to craft basic tools",
-      "Build a shelter before night falls",
-      "Explore caves for rare resources",
-      "Use torches to light up dark areas"
+      "Your first priority: punch a tree, craft a crafting table, then make wooden tools",
+      "Build a shelter before your first night — monsters spawn in darkness",
+      "Always carry torches when mining — they prevent monster spawns and help you navigate",
+      "Mine at Y-level 11-16 for diamonds and rare resources",
+      "Save coordinates of interesting locations so you can find them again"
     ],
     "difficulty": "Easy",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.5
   },
   {
     "id": "drift-king",
     "title": "Drift King",
     "slug": "drift-king",
-    "description": "Become the ultimate Drift King! Master tight corners, earn massive drift scores, and compete against players worldwide. Choose from a garage of powerful cars and show off your drifting skills on stunning tracks. The most realistic drifting simulator online!",
-    "shortDescription": "Master the drift and compete against players worldwide!",
+    "description": "Drift King is an adrenaline-fueled drifting competition that challenges you to master the art of controlled sliding. Set across stunning urban and mountain tracks, the game tests your ability to maintain speed, angle, and style through every corner. Only the smoothest, most consistent drifters will earn the crown.\n\nThe game features a garage of high-performance cars, each with unique handling characteristics. From nimble Japanese imports to powerful American muscle, every car demands a different approach to drifting. As you earn points and climb the leaderboards, you unlock new vehicles and upgrades that enhance your drifting capabilities.\n\nDrift King's scoring system rewards three key factors: speed (how fast you're going during the drift), angle (how sideways your car is), and duration (how long you maintain the drift). The multiplier builds as you chain drifts together through consecutive corners. One mistake — hitting a wall, spinning out, or straightening up — resets your multiplier, creating high-stakes tension on every turn.\n\nThe tracks are designed to test different skills. Tight city circuits demand precision and quick transitions, while sweeping mountain passes let you hold massive, high-speed drifts. Learning each track's rhythm is essential — knowing exactly when to initiate each drift separates the kings from the pretenders.\n\nWith its competitive online leaderboards, Drift King gives you a reason to keep coming back. There's always someone to beat, a higher score to chase, or a cleaner line to discover. For racing fans who live for the sideways action, Drift King delivers the definitive browser drifting experience.",
+    "shortDescription": "Compete for the drift crown with high-speed, high-style car sliding!",
     "category": "racing",
-    "tags": ["racing", "drift", "car", "3d", "multiplayer", "simulator"],
+    "tags": ["racing", "drift", "car", "3d", "multiplayer", "simulator", "competitive"],
     "iframeUrl": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html",
-    "controls": "WASD or Arrow Keys to drive, Space for handbrake, Shift for nitro boost",
+    "controls": "WASD or Arrow Keys to drive. Space for handbrake. Shift for nitro boost. C to change camera angle.",
     "tips": [
-      "Use handbrake to initiate and control long drifts",
-      "Chain drifts together for combo multipliers",
-      "Upgrade your tires for better grip control",
-      "Watch the racing line — enter wide, apex tight, exit wide"
+      "Initiate drifts before the corner, not during it",
+      "Feather the throttle — full gas mid-drift usually causes spinouts",
+      "Nitro can extend a drift that's about to end too soon",
+      "Study the track layout before pushing for high scores",
+      "Different cars have different 'sweet spots' — experiment to find yours"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.4
   },
   {
     "id": "basketball-io",
     "title": "Basketball IO",
     "slug": "basketball-io",
-    "description": "Hit the court in this fast-paced online basketball game! Dribble, shoot, and score against players from around the world. Realistic physics, smooth controls, and competitive multiplayer action make this the best free basketball game online.",
-    "shortDescription": "Fast-paced basketball action against players worldwide!",
+    "description": "Basketball IO brings fast-paced, competitive basketball action to your browser in a vibrant 3D arena. Step onto the court and compete against players from around the world in real-time multiplayer matches that capture the excitement and intensity of the sport.\n\nThe game features intuitive controls that make dribbling, shooting, and defending feel natural. Use WASD to move around the court, position yourself for open shots, and drive to the basket. The shooting system uses a timing-based mechanic — release at the right moment for perfect accuracy. Defense requires smart positioning and well-timed steals to shut down your opponent.\n\nWhat makes Basketball IO stand out is the competitive multiplayer format. Each match is a live contest against real players, not AI bots. This creates dynamic, unpredictable gameplay where you need to read your opponent's tendencies and adapt your strategy on the fly. The satisfaction of crossing over a defender and sinking a three-pointer against a real person is unmatched.\n\nThe game tracks your stats across matches, including points scored, shooting percentage, steals, and wins. As you improve, you'll face tougher opponents, creating a natural progression system that rewards practice and skill development. The IO game format means you can jump into a match in seconds without lengthy lobbies or wait times.\n\nWhether you're a basketball fanatic or just looking for a fun competitive game, Basketball IO delivers authentic hoops action that's easy to learn but offers real depth for dedicated players.",
+    "shortDescription": "Fast-paced 3D basketball against real players worldwide!",
     "category": "sports",
-    "tags": ["sports", "basketball", "ball", "3d", "io", "multiplayer", "arena"],
+    "tags": ["sports", "basketball", "ball", "3d", "io", "multiplayer", "arena", "competitive"],
     "iframeUrl": "https://www.onlinegames.io/games/2022/unity3/basketball-io/index.html",
-    "controls": "WASD to move, Mouse to aim and shoot, Space to jump, E to steal/pass",
+    "controls": "WASD to move. Mouse to aim and shoot (click and release for timing). Space to jump. E to steal on defense or pass on offense.",
     "tips": [
-      "Time your shots at the peak of your jump for better accuracy",
-      "Pass to open teammates for easier scores",
-      "Stay between your opponent and the basket on defense",
-      "Practice three-pointers — they're worth the risk"
+      "Release your shot at the peak of your jump for best accuracy",
+      "On defense, stay between your opponent and the basket — don't chase",
+      "Pass to open teammates — a good assist is as valuable as a score",
+      "Don't hold sprint constantly — save it for fast breaks and drives",
+      "Practice three-point timing in warm-up before matches"
     ],
     "difficulty": "Medium",
-    "players": "Multiplayer"
+    "players": "Multiplayer",
+    "rating": 4.2
   },
   {
     "id": "masked-special-forces",
     "title": "Masked Special Forces",
     "slug": "masked-special-forces",
-    "description": "Join the elite Masked Special Forces in this intense 3D first-person shooter! Engage in tactical combat across multiple maps, unlock powerful weapons, and dominate the battlefield. The ultimate free FPS experience with stunning graphics and smooth gameplay.",
-    "shortDescription": "Intense 3D FPS combat — join the elite special forces!",
+    "description": "Masked Special Forces drops you into high-stakes tactical combat as an elite soldier fighting across diverse battlegrounds. This 3D first-person shooter delivers intense gunplay, multiple game modes, and competitive multiplayer action — all running smoothly in your browser.\n\nThe game features an arsenal of authentic weapons, from assault rifles and sniper rifles to shotguns and SMGs. Each weapon handles differently, with unique recoil patterns, damage values, and effective ranges. Learning the strengths and weaknesses of each gun is essential to dominating the battlefield. The loadout system lets you customize your weapon attachments to suit your playstyle.\n\nMaps range from tight urban environments to open military installations, each demanding different tactical approaches. Close-quarters maps favor shotguns and SMGs with fast reflexes, while larger maps reward patient snipers who control sightlines. Learning the maps — spawn points, power positions, and flanking routes — is as important as raw aiming skill.\n\nThe multiplayer mode pits you against players worldwide in team-based and free-for-all formats. Communication and teamwork give organized squads a massive advantage, but skilled lone wolves can also dominate with smart positioning and map awareness.\n\nMasked Special Forces captures the authentic FPS experience that fans of the genre crave. Responsive controls, satisfying gunplay, and the thrill of outplaying human opponents make every match exciting. Whether you're a casual player looking for some action or a competitive gamer chasing high kill counts, this game delivers.",
+    "shortDescription": "Intense 3D FPS combat with real weapons and multiplayer battles!",
     "category": "action",
-    "tags": ["action", "fps", "shooting", "3d", "multiplayer", "gun", "battle-royale"],
+    "tags": ["action", "fps", "shooting", "3d", "multiplayer", "gun", "tactical", "war"],
     "iframeUrl": "https://www.onlinegames.io/games/2022/unity2/masked-special-forces/index.html",
-    "controls": "WASD to move, Mouse to aim and shoot, R to reload, Space to jump, Shift to sprint",
+    "controls": "WASD to move. Mouse to aim and shoot. R to reload. Space to jump. Shift to sprint. 1-5 to switch weapons.",
     "tips": [
-      "Use cover — running in the open gets you killed fast",
-      "Aim for headshots to take down enemies quickly",
-      "Reload behind cover, never in the open",
-      "Learn the maps — knowing spawn points gives you an edge"
+      "Always reload behind cover, never in the open",
+      "Headshots deal 2-3x damage — aim high",
+      "Learn the spawn points on each map to predict enemy movements",
+      "Sound is crucial — footsteps reveal enemy positions",
+      "Switch to your pistol instead of reloading in close-range fights"
     ],
     "difficulty": "Hard",
-    "players": "Multiplayer"
+    "players": "Multiplayer",
+    "rating": 4.0
   },
   {
     "id": "real-flight-simulator",
     "title": "Real Flight Simulator",
     "slug": "real-flight-simulator",
-    "description": "Take to the skies in this stunningly realistic flight simulator! Fly a variety of aircraft, from small propeller planes to massive jets, across beautiful landscapes. Master takeoff, navigation, and landing with authentic flight physics. The best free flight sim online!",
-    "shortDescription": "Fly realistic aircraft across stunning landscapes!",
+    "description": "Real Flight Simulator offers the most authentic aviation experience available in a browser. Take command of a variety of aircraft — from nimble Cessnas to massive commercial airliners — and navigate the skies above beautifully rendered landscapes. This is as close as you can get to real flying without leaving the ground.\n\nThe simulation features realistic flight physics that accurately model lift, drag, thrust, and weight. Weather conditions affect your flight, with wind, turbulence, and visibility all playing a role. The cockpit instruments are functional and essential — you'll need to monitor altitude, airspeed, heading, and vertical speed to fly safely and effectively.\n\nMultiple aircraft are available, each with distinct flight characteristics. Small propeller planes are forgiving and perfect for learning the basics of takeoff, navigation, and landing. Jet aircraft require more precision and planning but offer the thrill of high-speed, high-altitude flight. Each aircraft's cockpit is uniquely modeled with accurate instrument layouts.\n\nThe world map features diverse environments including cities, mountains, coastlines, and rural landscapes. Fly over recognizable terrain and use visual navigation alongside your instruments. The day-night cycle and dynamic weather create ever-changing flying conditions that keep the experience fresh.\n\nReal Flight Simulator is perfect for aviation enthusiasts, aspiring pilots, or anyone curious about what it's like to fly a plane. The learning curve is real but rewarding — your first successful landing after navigating a full flight plan is an achievement that feels genuinely earned.",
+    "shortDescription": "Authentic flight simulation with realistic physics and multiple aircraft!",
     "category": "simulation",
-    "tags": ["simulator", "airplane", "flying", "3d", "realistic"],
+    "tags": ["simulator", "airplane", "flying", "3d", "realistic", "cockpit", "aviation"],
     "iframeUrl": "https://cloud.onlinegames.io/games/2023/unity2/real-flight-simulator/index.html",
-    "controls": "Mouse to control yoke, W/S for throttle, Q/E for rudder, G for landing gear, F for flaps",
+    "controls": "Mouse to control yoke (pitch and roll). W/S for throttle. Q/E for rudder. G for landing gear. F for flaps. C for camera.",
     "tips": [
-      "Start with the Cessna — it's the easiest to learn on",
-      "Keep your speed up during turns to avoid stalling",
-      "Line up with the runway well before your final approach",
-      "Watch the altimeter — maintain proper altitude for your heading"
+      "Start with the Cessna — it's forgiving and helps you learn fundamentals",
+      "Maintain proper airspeed during turns — too slow and you'll stall",
+      "Line up with the runway well before final approach — last-minute corrections are hard",
+      "Use flaps for takeoff and landing — they provide extra lift at low speeds",
+      "Watch the altimeter constantly — controlled flight into terrain is the #1 killer"
     ],
     "difficulty": "Hard",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.1
   },
   {
     "id": "fire-and-water",
     "title": "Fire and Water",
     "slug": "fire-and-water",
-    "description": "The classic co-op puzzle adventure! Control Fireboy and Watergirl through ancient temples filled with traps, puzzles, and treasures. Work together to solve challenges — Fireboy avoids water, Watergirl avoids fire. Perfect 2-player game for friends!",
-    "shortDescription": "Classic 2-player co-op puzzle adventure with Fireboy & Watergirl!",
+    "description": "Fire and Water (also known as Fireboy and Watergirl) is the beloved cooperative puzzle-platformer that has charmed millions of players worldwide. Control two elemental characters simultaneously — or team up with a friend — to navigate ancient temples filled with ingenious puzzles, deadly traps, and glittering treasures.\n\nThe core mechanic is brilliantly simple: Fireboy (controlled with WASD) can walk through fire but dies in water. Watergirl (controlled with Arrow Keys) can walk through water but dies in fire. Green pools of toxic goo kill both characters. This simple rule creates endless possibilities for puzzle design, forcing players to coordinate movements, trigger switches for each other, and find creative paths through each level.\n\nEach temple level is a self-contained puzzle box. You need to collect all the gems (red for Fireboy, blue for Watergirl) and reach the exit doors. Along the way, you'll encounter elevators, moving platforms, pushable blocks, laser beams, and pressure plates. The puzzles escalate in complexity as you progress, introducing new mechanics that build on what you've learned.\n\nThe cooperative nature of Fire and Water is what makes it special. Playing with a friend turns the game into a communication challenge — 'You stand on that switch while I run through!' Playing solo tests your ability to multitask and coordinate both characters independently, which is a satisfying mental workout in itself.\n\nFire and Water is perfect for siblings, couples, friends, or parent-child gaming sessions. It's one of the few online games that genuinely brings people together to solve problems cooperatively rather than competitively. The charm, challenge, and creativity of its puzzle design make it a timeless classic.",
+    "shortDescription": "Classic 2-player co-op puzzle adventure — Fireboy & Watergirl in ancient temples!",
     "category": "adventure",
-    "tags": ["adventure", "co-op", "2-player", "puzzle", "escape", "platformer"],
+    "tags": ["adventure", "co-op", "2-player", "puzzle", "platformer", "escape", "teamwork"],
     "iframeUrl": "https://www.onlinegames.io/games/2023/construct/179/fire-and-water/index.html",
-    "controls": "Player 1 (Fireboy): WASD to move. Player 2 (Watergirl): Arrow Keys to move. Collect gems and reach the exit!",
+    "controls": "Fireboy: WASD to move/jump. Watergirl: Arrow Keys to move/jump. Collect gems matching your color and reach the exit door.",
     "tips": [
-      "Fireboy dies in water, Watergirl dies in fire — remember who you are!",
-      "Coordinate with your partner to trigger switches simultaneously",
-      "Collect all gems for the best score",
-      "Some puzzles require one player to wait while the other clears the path"
+      "Clear communication is key — call out who's doing what before acting",
+      "One player can stand on a pressure plate to hold a door open for the other",
+      "Always check the entire level before starting — plan your route",
+      "Some puzzles require one character to wait while the other completes a section",
+      "Replaying levels to collect missed gems improves your coordination"
     ],
     "difficulty": "Medium",
-    "players": "2 Players"
+    "players": "2 Players",
+    "rating": 4.7
   },
   {
     "id": "draw-the-bridge",
     "title": "Draw The Bridge",
     "slug": "draw-the-bridge",
-    "description": "Unleash your creativity in this unique physics-based puzzle game! Draw bridges, ramps, and paths to guide your car safely to the finish line. Each level presents new challenges that test your drawing skills and engineering thinking. Fun for all ages!",
-    "shortDescription": "Draw bridges and ramps to guide your car to the finish!",
+    "description": "Draw The Bridge is a delightfully creative physics puzzle game where your drawings come to life. Each level presents a simple challenge: get the car from the starting point to the finish line. The twist? There's no road — you have to draw it yourself.\n\nUsing your mouse or finger, you draw lines directly on the screen. These lines instantly become physical objects — bridges, ramps, walls, and platforms — that the car can drive on. The physics engine simulates weight, momentum, and friction realistically, meaning your drawings need to be both creative and structurally sound.\n\nLevels introduce progressively complex challenges. Early stages are straightforward gaps requiring simple bridges. Later levels feature multiple gaps, elevation changes, moving obstacles, and narrow passages that demand precise drawing. You'll need to consider the car's speed, the angle of your ramps, and the structural integrity of your bridges.\n\nWhat makes Draw The Bridge special is the open-ended problem solving. There's rarely a single 'correct' solution — different players approach the same level in wildly different ways. Some draw minimalist ramps, others build elaborate multi-tiered structures. The joy comes from experimenting, failing, and finally discovering a solution that works.\n\nThe game appeals to all ages. Kids love the drawing mechanics and trial-and-error experimentation. Adults appreciate the engineering thinking and physics principles at play. It's the perfect blend of creativity and logic, wrapped in a charming, colorful package that makes learning through play feel effortless.",
+    "shortDescription": "Draw bridges and ramps to guide your car — physics meets creativity!",
     "category": "puzzle",
-    "tags": ["puzzle", "drawing", "physics", "brain", "logic", "2d"],
+    "tags": ["puzzle", "drawing", "physics", "brain", "logic", "2d", "creative", "engineering"],
     "iframeUrl": "https://www.onlinegames.io/games/2021/4/draw-the-bridge/index.html",
-    "controls": "Click and drag to draw lines on the screen. Your drawing becomes a physical object that the car can drive on.",
+    "controls": "Click and drag with mouse (or finger on mobile) to draw lines. Your drawings become physical objects the car can drive on.",
     "tips": [
-      "Draw smooth curves for better car control",
-      "Use multiple short lines instead of one long one for complex paths",
-      "Test and iterate — your first drawing rarely works perfectly",
-      "Think about momentum — the car needs speed for jumps"
+      "Draw smooth curves rather than sharp angles for better car control",
+      "Use multiple short, overlapping lines instead of one long one for complex paths",
+      "Don't forget gravity — steep ramps need momentum to climb",
+      "Test and iterate — your first drawing is rarely the best solution",
+      "Sometimes the simplest solution works better than an elaborate one"
     ],
     "difficulty": "Easy",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.4
   },
   {
     "id": "hero-rush-td",
     "title": "Hero Rush Tower Defense",
     "slug": "hero-rush-td",
-    "description": "Defend your kingdom in this epic tower defense strategy game! Place heroes and towers strategically along the path to stop waves of enemies. Upgrade your defenses, unlock powerful abilities, and become the ultimate defender. Addictive TD gameplay at its best!",
-    "shortDescription": "Place heroes and towers to defend against enemy waves!",
+    "description": "Hero Rush Tower Defense combines classic tower defense strategy with hero-based combat in an epic fantasy setting. Position your towers, deploy your heroes, and defend the kingdom against waves of increasingly powerful enemies. Strategic placement, resource management, and timely hero abilities are the keys to victory.\n\nThe game takes place across multiple maps, each with unique layouts that demand different defensive strategies. Narrow choke points favor concentrated firepower, while open areas require spread-out defenses and crowd control. Enemy waves follow predetermined paths, giving you the chance to build layered defenses that enemies must fight through.\n\nYour arsenal includes various tower types: arrow towers for fast, single-target damage; cannon towers for splash damage against groups; ice towers to slow enemy movement; and magic towers that ignore armor. Each tower can be upgraded multiple times, growing stronger and gaining new abilities at higher levels. Choosing which towers to invest in is the central strategic decision of each level.\n\nHeroes add an active element to the defense. Unlike static towers, heroes can be moved around the battlefield to respond to threats. Each hero has unique abilities — from devastating area attacks to healing auras — that can turn the tide of battle when used at the right moment. Managing hero cooldowns and positioning adds an exciting layer of real-time decision-making.\n\nHero Rush TD captures the addictive 'one more wave' feeling that makes tower defense games so compelling. The escalating difficulty, variety of strategies, and satisfaction of watching your carefully planned defenses shred through enemy hordes create an endlessly rewarding gameplay loop.",
+    "shortDescription": "Epic tower defense with upgradable towers and powerful heroes!",
     "category": "strategy",
-    "tags": ["strategy", "tower-defense", "defense", "2d", "fantasy"],
+    "tags": ["strategy", "tower-defense", "defense", "2d", "fantasy", "heroes"],
     "iframeUrl": "https://www.onlinegames.io/games/2023/unity/hero-rush-tower-defense/index.html",
-    "controls": "Click to select and place towers/heroes on the map. Upgrade units by clicking on them and selecting upgrades.",
+    "controls": "Click to select and place towers/heroes on designated spots. Click existing towers to upgrade. Click hero abilities when charged.",
     "tips": [
-      "Place towers at choke points where paths intersect",
-      "Mix damage types — some enemies resist physical, others magical",
-      "Upgrade your strongest towers first rather than spreading upgrades thin",
-      "Use hero abilities at critical moments when overwhelmed"
+      "Place towers at path intersections — they cover more ground",
+      "Mix damage types: physical and magical to handle different enemy resistances",
+      "Upgrade 2-3 key towers fully rather than having many weak ones",
+      "Move heroes to intercept enemies that break through your tower line",
+      "Save hero ultimate abilities for boss waves and large enemy clusters"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.3
   },
   {
     "id": "dinosaur-game",
     "title": "Dinosaur Game",
     "slug": "dinosaur-game",
-    "description": "The legendary Dinosaur Game (T-Rex Run)! Jump over cacti, duck under pterodactyls, and see how far you can run in this classic endless runner. The same addictive game from Chrome's offline mode — now playable anytime with enhanced visuals!",
-    "shortDescription": "The legendary T-Rex endless runner — jump, duck, survive!",
+    "description": "Dinosaur Game — affectionately known as the 'Chrome Dino' or 'T-Rex Run' — is the iconic endless runner that millions of people discover every day when their internet goes down. Now you can play it anytime, with enhanced visuals and the same addictive gameplay that made it a cultural phenomenon.\n\nThe premise is beautifully minimal: you're a pixel-art T-Rex running across a desert landscape. Cacti and pterodactyls appear in your path, and you must jump or duck to avoid them. The game speed gradually increases, testing your reflexes with increasingly tight timing windows. The goal is simply to survive as long as possible and beat your high score.\n\nDespite its simplicity, Dinosaur Game has remarkable depth. The accelerating speed changes the timing of every obstacle. The day-night cycle (triggered around 700 points) adds visual variety and briefly disrupts your rhythm. Pterodactyls introduce a new dimension — you need to decide whether to jump over them or duck under them based on their altitude. Back-to-back obstacles test your composure under pressure.\n\nThe game's charm lies in its pixel-perfect simplicity. The dino's little running animation, the way it stumbles slightly on landing, the 'Game Over' screen with your final score — every element serves the core gameplay loop. There's no menu, no tutorial, no waiting. You start running the moment the page loads.\n\nDinosaur Game is the ultimate palate cleanser — a pure arcade experience with zero friction between you and the gameplay. It's perfect for 30-second breaks, but don't be surprised if 'one more try' turns into an hour of chasing that high score.",
+    "shortDescription": "The legendary T-Rex endless runner — jump, duck, and chase high scores!",
     "category": "arcade",
-    "tags": ["arcade", "endless", "running", "pixel", "dinosaur", "2d", "avoid"],
+    "tags": ["arcade", "endless", "running", "pixel", "dinosaur", "2d", "retro", "classic"],
     "iframeUrl": "https://www.onlinegames.io/games/2023/q2/dinosaur-game/index.html",
-    "controls": "Space or Up Arrow to jump, Down Arrow to duck. Time your jumps to clear cacti and dodge birds.",
+    "controls": "Space or Up Arrow to jump. Down Arrow to duck. Time your inputs to avoid cacti and pterodactyls.",
     "tips": [
-      "The game speeds up over time — stay focused",
-      "Duck under high-flying pterodactyls, jump over low ones",
-      "The night mode starts around 700 points — don't let it throw you off",
-      "Practice the timing of back-to-back obstacles"
+      "The game speeds up every 100 points — be ready to adjust your timing",
+      "Watch pterodactyl altitude: high ones need a duck, low ones need a jump",
+      "Night mode starts around 700 points — don't let the visual change throw you off",
+      "For back-to-back obstacles, short quick jumps work better than high floaty ones",
+      "Tap jump, don't hold it — you want low, fast jumps for maximum control"
     ],
     "difficulty": "Medium",
-    "players": "1 Player"
+    "players": "1 Player",
+    "rating": 4.6
   }
 ]

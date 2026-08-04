@@ -1,0 +1,344 @@
+[
+  {
+    "id": "monster-survivors",
+    "title": "Monster Survivors",
+    "slug": "monster-survivors",
+    "description": "Survive endless waves of monsters in this thrilling action-packed survival game. Collect power-ups, upgrade your character, and fight to stay alive as long as possible!",
+    "shortDescription": "Survive the monster apocalypse in this thrilling action-packed survival game!",
+    "category": "action",
+    "tags": ["survival", "action", "roguelite", "combat", "2d"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html",
+    "controls": "WASD or Arrow Keys to move, auto-attack nearby enemies, collect gems to level up",
+    "tips": [
+      "Prioritize movement speed upgrades early on",
+      "Don't get cornered — keep moving in open areas",
+      "Gem magnets help you level up faster",
+      "Balance offense and defense upgrades"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "block-blast",
+    "title": "Block Blast",
+    "slug": "block-blast",
+    "description": "Match and blast colorful blocks in this addictive puzzle game! Drag blocks onto the grid, complete rows and columns, and score big combos. A modern twist on classic block puzzle games.",
+    "shortDescription": "Match and blast colorful blocks in this addictive puzzle game!",
+    "category": "puzzle",
+    "tags": ["puzzle", "block", "brain", "match", "2d"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.html",
+    "controls": "Drag and drop blocks onto the 8x8 grid. Complete full rows or columns to clear them.",
+    "tips": [
+      "Plan ahead — look at the next pieces before placing",
+      "Keep the grid as open as possible",
+      "Aim for combo clears (multiple rows/columns at once)",
+      "Don't fill corners too quickly"
+    ],
+    "difficulty": "Easy",
+    "players": "1 Player"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "slug": "2048",
+    "description": "The classic number puzzle game! Merge tiles with the same numbers to reach 2048 and beyond. Simple to learn but hard to master — can you beat the high score?",
+    "shortDescription": "Merge numbers to reach 2048 in this classic puzzle game!",
+    "category": "puzzle",
+    "tags": ["puzzle", "brain", "math", "merge", "logic", "2d"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/2048/index.html",
+    "controls": "Arrow Keys or swipe to move all tiles. When two tiles with the same number touch, they merge.",
+    "tips": [
+      "Pick a corner and try to keep your highest tile there",
+      "Don't move in the opposite direction of your corner",
+      "Keep your highest row filled at all times",
+      "Patience is key — don't rush"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "drift-hunters-pro",
+    "title": "Drift Hunters Pro",
+    "slug": "drift-hunters-pro",
+    "description": "The ultimate drifting experience! Choose from a huge selection of cars, customize your ride, and master the art of drifting across stunning tracks. Earn points and unlock new cars!",
+    "shortDescription": "Master the art of drifting with customizable cars and tracks!",
+    "category": "racing",
+    "tags": ["racing", "drift", "car", "3d", "stunt"],
+    "iframeUrl": "https://www.onlinegames.io/games/2023/unity/drift-hunters-pro/index.html",
+    "controls": "WASD or Arrow Keys to drive, Space for handbrake, C to change camera",
+    "tips": [
+      "Use handbrake (Space) to initiate drifts",
+      "Longer drifts = more points",
+      "Upgrade your car's handling first",
+      "Try different cars — each handles differently"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "gta-simulator",
+    "title": "GTA Simulator",
+    "slug": "gta-simulator",
+    "description": "Explore a massive open-world city, drive amazing cars, and complete missions in this action-packed GTA-style simulator! Free roam, cause chaos, and experience the ultimate urban adventure.",
+    "shortDescription": "Explore an open-world city, drive cars, and complete missions!",
+    "category": "action",
+    "tags": ["action", "gta", "driving", "shooting", "open-world", "3d"],
+    "iframeUrl": "https://www.onlinegames.io/games/2023/unity2/gta-simulator/index.html",
+    "controls": "WASD to move, Mouse to aim/shoot, E to enter vehicles, Tab for menu",
+    "tips": [
+      "Complete missions to earn money for better weapons",
+      "Find the fastest cars in the city center",
+      "Use cover during shootouts",
+      "Explore the map to find hidden items"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "8-ball-pool",
+    "title": "8 Ball Pool Billiard",
+    "slug": "8-ball-pool",
+    "description": "Play the world's most popular pool game online! Challenge yourself with realistic physics, aim carefully, and pocket all your balls before sinking the 8-ball. The ultimate billiards experience!",
+    "shortDescription": "Play realistic 8 Ball Pool with smooth physics and precise aiming!",
+    "category": "sports",
+    "tags": ["sports", "pool", "billiard", "ball", "3d", "multiplayer"],
+    "iframeUrl": "https://www.onlinegames.io/games/2022/unity3/8-ball-pool-billiard/index.html",
+    "controls": "Mouse to aim and adjust power, click to shoot",
+    "tips": [
+      "Line up your shots carefully — think 2-3 shots ahead",
+      "Use spin (English) to position the cue ball",
+      "Break hard but controlled",
+      "Defense is as important as offense in pool"
+    ],
+    "difficulty": "Medium",
+    "players": "1-2 Players"
+  },
+  {
+    "id": "stickman-parkour",
+    "title": "Stickman Parkour",
+    "slug": "stickman-parkour",
+    "description": "Run, jump, flip, and parkour through challenging obstacle courses as a nimble stickman! Test your reflexes across increasingly difficult levels with smooth animations and satisfying movement.",
+    "shortDescription": "Run and parkour through challenging obstacle courses!",
+    "category": "adventure",
+    "tags": ["parkour", "platformer", "running", "stickman", "2d", "skill"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2024/construct/219/stickman-parkour/index-og.html",
+    "controls": "Arrow Keys or WASD to move and jump, double jump available",
+    "tips": [
+      "Time your jumps carefully — rushing leads to falls",
+      "Use momentum to clear larger gaps",
+      "Watch the level ahead before starting",
+      "Practice makes perfect on harder levels"
+    ],
+    "difficulty": "Hard",
+    "players": "1 Player"
+  },
+  {
+    "id": "solitaire",
+    "title": "Classic Solitaire",
+    "slug": "solitaire",
+    "description": "The timeless card game you know and love! Play Classic Solitaire (Klondike) with beautiful cards, smooth animations, and a clean interface. Perfect for relaxing or sharpening your mind.",
+    "shortDescription": "Play the timeless Classic Solitaire card game online!",
+    "category": "puzzle",
+    "tags": ["puzzle", "card", "brain", "logic", "board", "2d"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html",
+    "controls": "Click or tap to select and move cards. Stack cards in descending order and alternating colors.",
+    "tips": [
+      "Always draw from the deck before making other moves",
+      "Prioritize revealing face-down cards",
+      "Build foundation piles evenly",
+      "Empty columns are valuable — use them wisely"
+    ],
+    "difficulty": "Easy",
+    "players": "1 Player"
+  },
+  {
+    "id": "snake",
+    "title": "Snake Classic",
+    "slug": "snake",
+    "description": "The legendary Snake game reborn! Guide your snake to eat food, grow longer, and avoid hitting walls or yourself. A nostalgic arcade experience that's simple, fun, and incredibly addictive.",
+    "shortDescription": "The legendary Snake game — eat, grow, and survive!",
+    "category": "arcade",
+    "tags": ["arcade", "snake", "classic", "2d", "animal"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2024/phaser/snake/index-og.html",
+    "controls": "Arrow Keys or WASD to change direction. Don't hit the walls or yourself!",
+    "tips": [
+      "Don't trap yourself in a spiral",
+      "Use the edges of the map to your advantage",
+      "Plan your path a few moves ahead when long",
+      "Speed increases as you grow — stay alert"
+    ],
+    "difficulty": "Easy",
+    "players": "1-2 Players"
+  },
+  {
+    "id": "cube-worlds",
+    "title": "Cube Worlds",
+    "slug": "cube-worlds",
+    "description": "Dive into a vibrant block-based sandbox world! Build, explore, and create anything you can imagine in this Minecraft-style creative adventure. Mine resources, craft tools, and shape your own world!",
+    "shortDescription": "Build, explore, and create in this block-based sandbox world!",
+    "category": "adventure",
+    "tags": ["sandbox", "crafting", "block", "minecraft-like", "3d", "building"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2025/html/cube-worlds/index-og.html",
+    "controls": "WASD to move, Mouse to look/break/place blocks, E for inventory, Space to jump",
+    "tips": [
+      "Start by collecting wood to craft basic tools",
+      "Build a shelter before night falls",
+      "Explore caves for rare resources",
+      "Use torches to light up dark areas"
+    ],
+    "difficulty": "Easy",
+    "players": "1 Player"
+  },
+  {
+    "id": "drift-king",
+    "title": "Drift King",
+    "slug": "drift-king",
+    "description": "Become the ultimate Drift King! Master tight corners, earn massive drift scores, and compete against players worldwide. Choose from a garage of powerful cars and show off your drifting skills on stunning tracks. The most realistic drifting simulator online!",
+    "shortDescription": "Master the drift and compete against players worldwide!",
+    "category": "racing",
+    "tags": ["racing", "drift", "car", "3d", "multiplayer", "simulator"],
+    "iframeUrl": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html",
+    "controls": "WASD or Arrow Keys to drive, Space for handbrake, Shift for nitro boost",
+    "tips": [
+      "Use handbrake to initiate and control long drifts",
+      "Chain drifts together for combo multipliers",
+      "Upgrade your tires for better grip control",
+      "Watch the racing line — enter wide, apex tight, exit wide"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "basketball-io",
+    "title": "Basketball IO",
+    "slug": "basketball-io",
+    "description": "Hit the court in this fast-paced online basketball game! Dribble, shoot, and score against players from around the world. Realistic physics, smooth controls, and competitive multiplayer action make this the best free basketball game online.",
+    "shortDescription": "Fast-paced basketball action against players worldwide!",
+    "category": "sports",
+    "tags": ["sports", "basketball", "ball", "3d", "io", "multiplayer", "arena"],
+    "iframeUrl": "https://www.onlinegames.io/games/2022/unity3/basketball-io/index.html",
+    "controls": "WASD to move, Mouse to aim and shoot, Space to jump, E to steal/pass",
+    "tips": [
+      "Time your shots at the peak of your jump for better accuracy",
+      "Pass to open teammates for easier scores",
+      "Stay between your opponent and the basket on defense",
+      "Practice three-pointers — they're worth the risk"
+    ],
+    "difficulty": "Medium",
+    "players": "Multiplayer"
+  },
+  {
+    "id": "masked-special-forces",
+    "title": "Masked Special Forces",
+    "slug": "masked-special-forces",
+    "description": "Join the elite Masked Special Forces in this intense 3D first-person shooter! Engage in tactical combat across multiple maps, unlock powerful weapons, and dominate the battlefield. The ultimate free FPS experience with stunning graphics and smooth gameplay.",
+    "shortDescription": "Intense 3D FPS combat — join the elite special forces!",
+    "category": "action",
+    "tags": ["action", "fps", "shooting", "3d", "multiplayer", "gun", "battle-royale"],
+    "iframeUrl": "https://www.onlinegames.io/games/2022/unity2/masked-special-forces/index.html",
+    "controls": "WASD to move, Mouse to aim and shoot, R to reload, Space to jump, Shift to sprint",
+    "tips": [
+      "Use cover — running in the open gets you killed fast",
+      "Aim for headshots to take down enemies quickly",
+      "Reload behind cover, never in the open",
+      "Learn the maps — knowing spawn points gives you an edge"
+    ],
+    "difficulty": "Hard",
+    "players": "Multiplayer"
+  },
+  {
+    "id": "real-flight-simulator",
+    "title": "Real Flight Simulator",
+    "slug": "real-flight-simulator",
+    "description": "Take to the skies in this stunningly realistic flight simulator! Fly a variety of aircraft, from small propeller planes to massive jets, across beautiful landscapes. Master takeoff, navigation, and landing with authentic flight physics. The best free flight sim online!",
+    "shortDescription": "Fly realistic aircraft across stunning landscapes!",
+    "category": "simulation",
+    "tags": ["simulator", "airplane", "flying", "3d", "realistic"],
+    "iframeUrl": "https://cloud.onlinegames.io/games/2023/unity2/real-flight-simulator/index.html",
+    "controls": "Mouse to control yoke, W/S for throttle, Q/E for rudder, G for landing gear, F for flaps",
+    "tips": [
+      "Start with the Cessna — it's the easiest to learn on",
+      "Keep your speed up during turns to avoid stalling",
+      "Line up with the runway well before your final approach",
+      "Watch the altimeter — maintain proper altitude for your heading"
+    ],
+    "difficulty": "Hard",
+    "players": "1 Player"
+  },
+  {
+    "id": "fire-and-water",
+    "title": "Fire and Water",
+    "slug": "fire-and-water",
+    "description": "The classic co-op puzzle adventure! Control Fireboy and Watergirl through ancient temples filled with traps, puzzles, and treasures. Work together to solve challenges — Fireboy avoids water, Watergirl avoids fire. Perfect 2-player game for friends!",
+    "shortDescription": "Classic 2-player co-op puzzle adventure with Fireboy & Watergirl!",
+    "category": "adventure",
+    "tags": ["adventure", "co-op", "2-player", "puzzle", "escape", "platformer"],
+    "iframeUrl": "https://www.onlinegames.io/games/2023/construct/179/fire-and-water/index.html",
+    "controls": "Player 1 (Fireboy): WASD to move. Player 2 (Watergirl): Arrow Keys to move. Collect gems and reach the exit!",
+    "tips": [
+      "Fireboy dies in water, Watergirl dies in fire — remember who you are!",
+      "Coordinate with your partner to trigger switches simultaneously",
+      "Collect all gems for the best score",
+      "Some puzzles require one player to wait while the other clears the path"
+    ],
+    "difficulty": "Medium",
+    "players": "2 Players"
+  },
+  {
+    "id": "draw-the-bridge",
+    "title": "Draw The Bridge",
+    "slug": "draw-the-bridge",
+    "description": "Unleash your creativity in this unique physics-based puzzle game! Draw bridges, ramps, and paths to guide your car safely to the finish line. Each level presents new challenges that test your drawing skills and engineering thinking. Fun for all ages!",
+    "shortDescription": "Draw bridges and ramps to guide your car to the finish!",
+    "category": "puzzle",
+    "tags": ["puzzle", "drawing", "physics", "brain", "logic", "2d"],
+    "iframeUrl": "https://www.onlinegames.io/games/2021/4/draw-the-bridge/index.html",
+    "controls": "Click and drag to draw lines on the screen. Your drawing becomes a physical object that the car can drive on.",
+    "tips": [
+      "Draw smooth curves for better car control",
+      "Use multiple short lines instead of one long one for complex paths",
+      "Test and iterate — your first drawing rarely works perfectly",
+      "Think about momentum — the car needs speed for jumps"
+    ],
+    "difficulty": "Easy",
+    "players": "1 Player"
+  },
+  {
+    "id": "hero-rush-td",
+    "title": "Hero Rush Tower Defense",
+    "slug": "hero-rush-td",
+    "description": "Defend your kingdom in this epic tower defense strategy game! Place heroes and towers strategically along the path to stop waves of enemies. Upgrade your defenses, unlock powerful abilities, and become the ultimate defender. Addictive TD gameplay at its best!",
+    "shortDescription": "Place heroes and towers to defend against enemy waves!",
+    "category": "strategy",
+    "tags": ["strategy", "tower-defense", "defense", "2d", "fantasy"],
+    "iframeUrl": "https://www.onlinegames.io/games/2023/unity/hero-rush-tower-defense/index.html",
+    "controls": "Click to select and place towers/heroes on the map. Upgrade units by clicking on them and selecting upgrades.",
+    "tips": [
+      "Place towers at choke points where paths intersect",
+      "Mix damage types — some enemies resist physical, others magical",
+      "Upgrade your strongest towers first rather than spreading upgrades thin",
+      "Use hero abilities at critical moments when overwhelmed"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  },
+  {
+    "id": "dinosaur-game",
+    "title": "Dinosaur Game",
+    "slug": "dinosaur-game",
+    "description": "The legendary Dinosaur Game (T-Rex Run)! Jump over cacti, duck under pterodactyls, and see how far you can run in this classic endless runner. The same addictive game from Chrome's offline mode — now playable anytime with enhanced visuals!",
+    "shortDescription": "The legendary T-Rex endless runner — jump, duck, survive!",
+    "category": "arcade",
+    "tags": ["arcade", "endless", "running", "pixel", "dinosaur", "2d", "avoid"],
+    "iframeUrl": "https://www.onlinegames.io/games/2023/q2/dinosaur-game/index.html",
+    "controls": "Space or Up Arrow to jump, Down Arrow to duck. Time your jumps to clear cacti and dodge birds.",
+    "tips": [
+      "The game speeds up over time — stay focused",
+      "Duck under high-flying pterodactyls, jump over low ones",
+      "The night mode starts around 700 points — don't let it throw you off",
+      "Practice the timing of back-to-back obstacles"
+    ],
+    "difficulty": "Medium",
+    "players": "1 Player"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"d:\\\\new\\\\omggame.store\" -Depth 3)",
+      "Bash(Select-Object Mode, Length, Name, FullName)",
+      "Bash(git clone *)",
+      "Bash(cp temp_repo/* . -r)",
+      "Bash(cp temp_repo/.* . -r)",
+      "Bash(rm -rf \"d:/new/omggame.store/temp_repo\")"
+    ],
+    "additionalDirectories": [
+      "d:\\new\\omggame.store\\temp_repo"
+    ]
+  }
+}

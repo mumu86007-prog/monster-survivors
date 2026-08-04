@@ -228,6 +228,12 @@
             </div>
         </div>
 
+        <!-- FAQ Section -->
+        <div style="background: var(--surface); border-radius: 14px; padding: 28px; margin-bottom: 24px;">
+            <h3 style="font-size: 18px; font-weight: 700; margin-bottom: 16px;">❓ Frequently Asked Questions</h3>
+            <div style="display: grid; gap: 16px;" id="gameFaq"></div>
+        </div>
+
         <!-- Bottom Ad -->
         <div class="ad-slot" style="margin-bottom: 40px;">
             <ins class="adsbygoogle"
@@ -339,6 +345,17 @@
         document.getElementById('gameDifficulty').textContent = game.difficulty;
         document.getElementById('gamePlayers').textContent = game.players;
         document.getElementById('gameRating').textContent = '★'.repeat(Math.floor(game.rating || 4)) + '☆'.repeat(5 - Math.floor(game.rating || 4));
+
+        // FAQ
+        var faqs = [
+            {q: 'Is ' + game.title + ' free to play?', a: 'Yes! ' + game.title + ' is completely free to play on omggame.store. No downloads, no registration, and no hidden fees — just click and play instantly in your browser.' },
+            {q: 'Can I play ' + game.title + ' on mobile?', a: 'Yes, ' + game.title + ' works on mobile devices including phones and tablets. The game is built with HTML5 technology that runs in any modern browser. For the best experience, we recommend playing in landscape mode on mobile.' },
+            {q: 'Do I need to download anything to play ' + game.title + '?', a: 'No downloads needed! ' + game.title + ' runs directly in your web browser. Just visit omggame.store, click the game, and start playing. It works on Chrome, Firefox, Safari, and Edge.' },
+            {q: 'How do I play ' + game.title + '?', a: game.controls }
+        ];
+        document.getElementById('gameFaq').innerHTML = faqs.map(function(f) {
+            return '<div><p style="color:white;font-weight:600;font-size:14px;margin-bottom:4px">Q: ' + f.q + '</p><p style="color:var(--text-muted);font-size:13px;line-height:1.6">' + f.a + '</p></div>';
+        }).join('');
     }
 
     function renderRelatedGames(allGames, currentGame) {

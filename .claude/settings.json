@@ -10,7 +10,8 @@
       "WebFetch(domain:omggame.store)",
       "Bash(ls -la \"D:/new/Journal/google 搜索原则/\")",
       "Read(//d/new/Journal/google 搜索原则/**)",
-      "Bash(grep -n '\"rating\": 4.0$' \"d:/new/omggame.store/data/games.json\")"
+      "Bash(grep -n '\"rating\": 4.0$' \"d:/new/omggame.store/data/games.json\")",
+      "Bash(git commit -m 'feat: 117 games, deep guides, genre guides, tips pages — people-first content strategy *)"
     ]
   }
 }

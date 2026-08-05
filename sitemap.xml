@@ -147,5 +147,40 @@
   <url><loc>https://omggame.store/play/?game=secret-sniper-agent</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://omggame.store/play/?game=crazy-strike-force</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://omggame.store/play/?game=urban-sniper</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=crazy-parking-fury</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=city-stunts</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=fort-drifter</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=super-mini-racing</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=2-player-crazy-racer</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=airplane-racer</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=motorbike-stunt</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=kirk-the-pirate</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=rome-simulator</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=bandits-pvp</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=jacks-village</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=highway-cars</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=neon-racer</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=crazy-moto-racing</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://omggame.store/play/?game=mini-cars-racing</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Deep Guides -->
+  <url><loc>https://omggame.store/guides/monster-survivors-strategy.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/guides/block-blast-tips.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/guides/drift-hunters-master.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/guides/gta-simulator-secrets.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/guides/chess-strategy-beginners.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Genre Guides -->
+  <url><loc>https://omggame.store/genres/racing-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/genres/puzzle-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/genres/action-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/genres/adventure-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/genres/simulation-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/genres/sports-games-guide.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Tips & Collections -->
+  <url><loc>https://omggame.store/tips/improve-gaming-reflexes.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://omggame.store/tips/best-games-for-kids.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://omggame.store/tips/best-games-for-boredom.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
 </urlset>

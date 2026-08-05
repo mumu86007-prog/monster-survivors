@@ -7,7 +7,10 @@
       "Bash(git commit *)",
       "Bash(git pull *)",
       "Bash(git stash *)",
-      "WebFetch(domain:omggame.store)"
+      "WebFetch(domain:omggame.store)",
+      "Bash(ls -la \"D:/new/Journal/google 搜索原则/\")",
+      "Read(//d/new/Journal/google 搜索原则/**)",
+      "Bash(grep -n '\"rating\": 4.0$' \"d:/new/omggame.store/data/games.json\")"
     ]
   }
 }

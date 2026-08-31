@@ -8,7 +8,7 @@ const proseWords = (html) => html.replace(/<script[\s\S]*?<\/script>|<style[\s\S
 const guideSlugs = guides.map((guide) => guide.slug);
 
 test('guides are substantial, distinct editorial pages with one future ad position', async () => {
-  assert.equal(guideSlugs.length, 12);
+  assert.equal(guideSlugs.length, 15);
   const guides = await Promise.all(guideSlugs.map(async (slug) => [slug, await read(`guides/${slug}.html`)]));
   const headings = guides.map(([, html]) => html.match(/<h1>([^<]+)<\/h1>/)?.[1]);
   assert.equal(new Set(headings).size, guideSlugs.length);

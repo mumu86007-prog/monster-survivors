@@ -5,5 +5,6 @@ test('generated pages are crawlable and advertising-free', async () => {
   const html = await readFile('games/block-blast.html', 'utf8');
   assert.match(html, /<h1>Block Blast/);
   assert.match(html, /No timer/);
+  assert.match(html, /<iframe[^>]+onlinegames\.io/);
   assert.doesNotMatch(html, /adsbygoogle|pagead2\.googlesyndication/);
 });

@@ -418,5 +418,27 @@
     "controls": "Use the mouse to choose makeup, hair, dresses, and accessories.",
     "sourceUrl": "https://www.onlinegames.io/games/2021/2/wedding-beauty-salon/index.html",
     "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "steal-brainrots",
+    "title": "Steal Brainrots Multiplayer",
+    "labels": ["trending", "short-break"],
+    "collection": "trend-desk",
+    "shortReason": "A current meme-game trend for a quick, chaotic strategy break — not a quiet-focus pick.",
+    "editorNote": "Steal Brainrots Multiplayer is included on our Trend Desk because the brainrot-style multiplayer format is showing up strongly in current browser and social-game conversation. It is deliberately more competitive and noisier than the calm games in this collection: the point is a short, silly session of placing units and reacting to another player, not settling into a long relaxing routine. Try one match, then leave when the pace stops being fun. This page is an editorial description of the embedded game and is not affiliated with Roblox or any similarly named original experience.",
+    "controls": "Use the mouse to select and deploy units, then drag to position them on the field.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2026/unity/steal-brainrots-multiplayer/game.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "fall-brainrots",
+    "title": "Fall Brainrots",
+    "labels": ["trending", "short-break"],
+    "collection": "trend-desk",
+    "shortReason": "A short, chaotic obstacle-course trend for players who want a laugh rather than a calm puzzle.",
+    "editorNote": "Fall Brainrots joins the Trend Desk as a current meme-style obstacle game, not as a promise of a peaceful break. Its wobbly movement, quick restarts, and multiplayer race format are best for a small burst of playful attention. The useful expectation is simple: one run can be enough, and mistakes are part of the joke rather than something to optimise. If you want no timers or a slower task, use the quiet-pick filters instead. This editorial page describes the embedded version only and is not affiliated with Roblox or any similarly named original experience.",
+    "controls": "Use WASD to move, Space to jump, and Shift to slide through the course.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2026/unity/fall-brainrots/game.html",
+    "embedPermission": "publisher-iframe-source"
   }
 ]

@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises';
 
-const allowedLabels = new Set(['no-timer', 'short-break', 'low-stakes', 'mouse-friendly', 'cozy-task']);
+const allowedLabels = new Set(['no-timer', 'short-break', 'low-stakes', 'mouse-friendly', 'cozy-task', 'trending']);
 const games = JSON.parse(await readFile(new URL('../data/editorial-games.json', import.meta.url), 'utf8'));
 const slugs = new Set();
 
@@ -13,6 +13,6 @@ for (const game of games) {
   if (!game.editorNote || game.editorNote.length < 120) throw new Error(`Editor note is too short on ${game.slug}`);
 }
 
-if (games.length !== 30) throw new Error(`Expected 30 editorial games, found ${games.length}`);
+if (games.length !== 32) throw new Error(`Expected 32 editorial games, found ${games.length}`);
 
 console.log(`${games.length} editorial records valid`);

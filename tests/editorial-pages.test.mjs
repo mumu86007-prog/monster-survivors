@@ -11,7 +11,9 @@ test('generated pages are crawlable and advertising-free', async () => {
 
 test('all-picks directory exposes the complete editorial collection', async () => {
   const html = await readFile('games/index.html', 'utf8');
-  assert.match(html, /30 Browser Games/);
+  assert.match(html, /32 Browser Games/);
   assert.match(html, /href="\/games\/wedding-beauty-salon\.html"/);
+  assert.match(html, /href="\/games\/steal-brainrots\.html"/);
+  assert.match(html, /href="\/games\/fall-brainrots\.html"/);
   assert.doesNotMatch(html, /adsbygoogle|pagead2\.googlesyndication/);
 });

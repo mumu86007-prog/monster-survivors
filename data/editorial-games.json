@@ -1,10 +1,422 @@
 [
-  {"slug":"block-blast","title":"Block Blast","labels":["no-timer","short-break","low-stakes"],"shortReason":"Place three shapes at your own pace and clear a row when it feels right.","editorNote":"Block Blast suits a short reset because there is no falling-piece timer asking for a fast reaction. The useful decision is simply where a shape leaves room for the next one. Stop after one tidy clear or stay longer when you want a little quiet focus.","controls":"Drag a block onto the grid. Complete rows or columns to clear them.","sourceUrl":"https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.html","embedPermission":"pending-manual-verification"},
-  {"slug":"tile-match","title":"Tile Match","labels":["no-timer","mouse-friendly","short-break"],"shortReason":"A gentle matching loop for moments when you want one small task at a time.","editorNote":"Tile Match is a better fit for a calm break than a high-score chase because its basic action is a simple visual match. It works best when you want a little attention on colours and shapes without needing keyboard speed or a competitive goal.","controls":"Use the mouse to select matching tiles and clear the board.","sourceUrl":"https://cloud.onlinegames.io/games/2025/unity/tile-match/index-og.html","embedPermission":"pending-manual-verification"},
-  {"slug":"mahjong-solitaire","title":"Mahjong Solitaire","labels":["no-timer","low-stakes","mouse-friendly"],"shortReason":"A quiet tile puzzle for players who prefer pattern-spotting over fast inputs.","editorNote":"Mahjong Solitaire gives you a deliberate pace: look for open pairs, make one choice, and reconsider the layout. It is a strong pick for people who enjoy a puzzle but do not want a countdown, a loud restart, or a score demanding attention.","controls":"Select two free matching tiles to remove them from the layout.","sourceUrl":"https://cloud.onlinegames.io/games/2025/unity/mahjong/index-og.html","embedPermission":"pending-manual-verification"},
-  {"slug":"classic-solitaire","title":"Classic Solitaire","labels":["no-timer","low-stakes","short-break"],"shortReason":"A familiar card routine that can be paused between any two moves.","editorNote":"Classic Solitaire is useful when familiarity is more relaxing than novelty. The rules are easy to recognise, each move is small, and the game does not punish you for taking a moment to scan the columns before deciding what to uncover next.","controls":"Drag cards into descending alternating-colour stacks and build each suit upward.","sourceUrl":"https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html","embedPermission":"pending-manual-verification"},
-  {"slug":"pyramid-solitaire","title":"Pyramid Solitaire","labels":["low-stakes","mouse-friendly","short-break"],"shortReason":"A light card puzzle when you want a little arithmetic without urgency.","editorNote":"Pyramid Solitaire changes the familiar card routine into a compact matching puzzle. Finding pairs that make thirteen provides a small, satisfying objective while still leaving room to pause, look at the board, and make a decision without pressure.","controls":"Select exposed cards that total thirteen. Kings can be removed on their own.","sourceUrl":"https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html#pyramid","embedPermission":"pending-manual-verification"},
-  {"slug":"find-it","title":"Find It","labels":["short-break","mouse-friendly","low-stakes"],"shortReason":"A visual scavenger hunt for a short change of focus.","editorNote":"Find It is for the moment when you want to look closely at something simple rather than solve a long strategy problem. The rhythm is gentle: scan the scene, notice a detail, and move on. It is best played as a short visual reset.","controls":"Use the mouse to select the objects requested by the game.","sourceUrl":"https://cloud.onlinegames.io/games/2025/unity/find-it/index-og.html","embedPermission":"pending-manual-verification"},
-  {"slug":"car-wash","title":"Car Wash","labels":["cozy-task","mouse-friendly","short-break"],"shortReason":"A small cleaning sequence with an obvious beginning, middle, and end.","editorNote":"Car Wash is a satisfying-task choice rather than a challenge game. Its appeal is the visible before-and-after result: work through one simple cleaning step, see the change, and finish without needing to learn a complex system or compete with anyone.","controls":"Use the mouse to choose tools and complete each cleaning step.","sourceUrl":"https://www.onlinegames.io/games/2023/unity2/car-wash/index.html","embedPermission":"pending-manual-verification"},
-  {"slug":"draw-here","title":"Draw Here","labels":["cozy-task","mouse-friendly","low-stakes"],"shortReason":"Draw a simple line, watch the result, and try another small idea.","editorNote":"Draw Here works as a gentle creative puzzle because the input is direct and forgiving. You make a line, see how it changes the scene, and adjust on the next attempt. It is a good fit for players who want a little interaction without a crowded interface.","controls":"Click and drag to draw a line that guides the ball toward its goal.","sourceUrl":"https://www.onlinegames.io/games/2021/unity2/draw-here/index.html","embedPermission":"pending-manual-verification"}
+  {
+    "slug": "block-blast",
+    "title": "Block Blast",
+    "labels": [
+      "no-timer",
+      "short-break",
+      "low-stakes"
+    ],
+    "shortReason": "Place three shapes at your own pace and clear a row when it feels right.",
+    "editorNote": "Block Blast suits a short reset because there is no falling-piece timer asking for a fast reaction. The useful decision is simply where a shape leaves room for the next one. Stop after one tidy clear or stay longer when you want a little quiet focus.",
+    "controls": "Drag a block onto the grid. Complete rows or columns to clear them.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "tile-match",
+    "title": "Tile Match",
+    "labels": [
+      "no-timer",
+      "mouse-friendly",
+      "short-break"
+    ],
+    "shortReason": "A gentle matching loop for moments when you want one small task at a time.",
+    "editorNote": "Tile Match is a better fit for a calm break than a high-score chase because its basic action is a simple visual match. It works best when you want a little attention on colours and shapes without needing keyboard speed or a competitive goal.",
+    "controls": "Use the mouse to select matching tiles and clear the board.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity/tile-match/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "mahjong-solitaire",
+    "title": "Mahjong Solitaire",
+    "labels": [
+      "no-timer",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "A quiet tile puzzle for players who prefer pattern-spotting over fast inputs.",
+    "editorNote": "Mahjong Solitaire gives you a deliberate pace: look for open pairs, make one choice, and reconsider the layout. It is a strong pick for people who enjoy a puzzle but do not want a countdown, a loud restart, or a score demanding attention.",
+    "controls": "Select two free matching tiles to remove them from the layout.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity/mahjong/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "classic-solitaire",
+    "title": "Classic Solitaire",
+    "labels": [
+      "no-timer",
+      "low-stakes",
+      "short-break"
+    ],
+    "shortReason": "A familiar card routine that can be paused between any two moves.",
+    "editorNote": "Classic Solitaire is useful when familiarity is more relaxing than novelty. The rules are easy to recognise, each move is small, and the game does not punish you for taking a moment to scan the columns before deciding what to uncover next.",
+    "controls": "Drag cards into descending alternating-colour stacks and build each suit upward.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "pyramid-solitaire",
+    "title": "Pyramid Solitaire",
+    "labels": [
+      "low-stakes",
+      "mouse-friendly",
+      "short-break"
+    ],
+    "shortReason": "A light card puzzle when you want a little arithmetic without urgency.",
+    "editorNote": "Pyramid Solitaire changes the familiar card routine into a compact matching puzzle. Finding pairs that make thirteen provides a small, satisfying objective while still leaving room to pause, look at the board, and make a decision without pressure.",
+    "controls": "Select exposed cards that total thirteen. Kings can be removed on their own.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html#pyramid",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "find-it",
+    "title": "Find It",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "low-stakes"
+    ],
+    "shortReason": "A visual scavenger hunt for a short change of focus.",
+    "editorNote": "Find It is for the moment when you want to look closely at something simple rather than solve a long strategy problem. The rhythm is gentle: scan the scene, notice a detail, and move on. It is best played as a short visual reset.",
+    "controls": "Use the mouse to select the objects requested by the game.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity/find-it/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "car-wash",
+    "title": "Car Wash",
+    "labels": [
+      "cozy-task",
+      "mouse-friendly",
+      "short-break"
+    ],
+    "shortReason": "A small cleaning sequence with an obvious beginning, middle, and end.",
+    "editorNote": "Car Wash is a satisfying-task choice rather than a challenge game. Its appeal is the visible before-and-after result: work through one simple cleaning step, see the change, and finish without needing to learn a complex system or compete with anyone.",
+    "controls": "Use the mouse to choose tools and complete each cleaning step.",
+    "sourceUrl": "https://www.onlinegames.io/games/2023/unity2/car-wash/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "draw-here",
+    "title": "Draw Here",
+    "labels": [
+      "cozy-task",
+      "mouse-friendly",
+      "low-stakes"
+    ],
+    "shortReason": "Draw a simple line, watch the result, and try another small idea.",
+    "editorNote": "Draw Here works as a gentle creative puzzle because the input is direct and forgiving. You make a line, see how it changes the scene, and adjust on the next attempt. It is a good fit for players who want a little interaction without a crowded interface.",
+    "controls": "Click and drag to draw a line that guides the ball toward its goal.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/unity2/draw-here/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "2048",
+    "title": "2048",
+    "labels": [
+      "no-timer",
+      "short-break",
+      "low-stakes"
+    ],
+    "shortReason": "Merge equal numbers slowly and leave whenever one more move feels enough.",
+    "editorNote": "2048 is a quiet number puzzle with a single, readable decision on every turn. It suits a light-focus break because there is no opponent and no need to memorise a complicated control scheme. A good stopping point is simply after creating one larger tile or when the board starts to feel busy.",
+    "controls": "Use the arrow keys or swipe to slide all tiles. Combine matching numbers.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/html/2048/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "cake-match-puzzle",
+    "title": "Cake Match Puzzle",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Match colourful cakes in a small, satisfying visual loop.",
+    "editorNote": "Cake Match Puzzle is a bright, low-commitment choice for someone who wants to sort and combine objects rather than react quickly. Its food theme and clear board make progress easy to see. Treat each level as a small task, not a score to chase, and take a break between rounds.",
+    "controls": "Use the mouse to select and combine matching cakes.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2024/unity3/cake-match-puzzle/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "cat-simulator",
+    "title": "Cat Simulator",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "cozy-task"
+    ],
+    "shortReason": "Explore a playful cat world when you want a change from abstract puzzles.",
+    "editorNote": "Cat Simulator is included for a curious, light-hearted break rather than deep challenge. It has more movement than the tile games, so it is best when you want to wander and discover small interactions. Pick it for a playful reset, not for a calm, still puzzle session.",
+    "controls": "Use the keyboard to move and the on-screen prompts to interact.",
+    "sourceUrl": "https://www.onlinegames.io/games/2022/unity4/cat-simulator/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "checkout-frenzy",
+    "title": "Checkout Frenzy",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Sort, scan, and organise a small shop routine with a visible finish.",
+    "editorNote": "Checkout Frenzy turns a familiar organising task into a compact game loop. It is a better fit for players who enjoy making a queue or counter look orderly, although later rounds can become busier. Start with one round and stop before the pace stops feeling pleasant.",
+    "controls": "Use the mouse to scan items, process payments, and organise the checkout.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity/checkout-frenzy/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "cube-worlds",
+    "title": "Cube Worlds",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "cozy-task"
+    ],
+    "shortReason": "Build and explore in a blocky sandbox at your own pace.",
+    "editorNote": "Cube Worlds is for a longer, open-ended pause when you would rather make or explore something than solve a fixed board. There is more to learn than in a card game, but the sandbox format lets you set your own small goal. Try building one simple structure, then leave it there.",
+    "controls": "Use the keyboard to move and the mouse to place or remove blocks.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/html/cube-worlds/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "dinosaur-game",
+    "title": "Dinosaur Game",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "A familiar one-button runner for a tiny burst of attention.",
+    "editorNote": "Dinosaur Game is not a slow puzzle, but it earns a place as a short, low-setup reset. One simple action makes it easy to understand immediately and easy to stop after a single try. Choose it when you want a brief change of rhythm rather than a long calming session.",
+    "controls": "Press space, click, or tap to jump over obstacles.",
+    "sourceUrl": "https://www.onlinegames.io/games/2023/q2/dinosaur-game/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "draw-bird-path",
+    "title": "Draw the Bird Path",
+    "labels": [
+      "no-timer",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Draw a safe route for birds, one gentle line at a time.",
+    "editorNote": "Draw the Bird Path combines a simple drawing gesture with a clear visual goal. It works well when you want a creative puzzle without lots of buttons or menus. The satisfying part is seeing one line become a solution, then trying a different route if it does not work.",
+    "controls": "Click and drag to draw paths that guide birds safely home.",
+    "sourceUrl": "https://www.onlinegames.io/games/2022/construct/147/draw-the-bird-path/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "draw-the-bridge",
+    "title": "Draw The Bridge",
+    "labels": [
+      "no-timer",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Sketch a bridge and watch a small physics idea play out.",
+    "editorNote": "Draw The Bridge is a gentle experiment game: make a line, observe what happens, and adjust it. It gives your attention a small engineering-style task without requiring fast reactions. The best way to play is to try one simple idea at a time instead of forcing a perfect solution.",
+    "controls": "Click and drag to draw a bridge that carries the vehicle to its goal.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/4/draw-the-bridge/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "farming-island",
+    "title": "Farming Island",
+    "labels": [
+      "low-stakes",
+      "cozy-task",
+      "short-break"
+    ],
+    "shortReason": "Tend a small island with farming, animals, and simple collecting.",
+    "editorNote": "Farming Island is a good choice for players who find repeated, visible tasks satisfying. Planting, collecting, and tending the space offer natural mini-goals, but it has more systems than a five-minute puzzle. Pick one task for the session and avoid turning the whole island into a checklist.",
+    "controls": "Use the keyboard and mouse to move, collect resources, and manage the island.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity/farming-island/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "fast-food-manager",
+    "title": "Fast Food Manager",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Arrange a small restaurant routine when organising feels satisfying.",
+    "editorNote": "Fast Food Manager is a management-flavoured game for people who like upgrading and arranging a simple system. It can become busy, so it is better described as light focus than as a fully quiet game. Play one upgrade or one short shift, then step away before it turns into a rush.",
+    "controls": "Use the mouse to manage the restaurant, staff, and upgrades.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2025/unity4/fast-food-manager/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "golf-bit",
+    "title": "Golf Bit",
+    "labels": [
+      "no-timer",
+      "short-break",
+      "low-stakes"
+    ],
+    "shortReason": "Line up a small shot and solve one colourful course at a time.",
+    "editorNote": "Golf Bit reduces golf to a compact angle-and-power puzzle. Each hole gives you a clear beginning and end, with room to pause before taking a shot. It is ideal when you want a little spatial thinking and a satisfying finish without committing to a long game.",
+    "controls": "Use the mouse to aim and set the power for each shot.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2026/construct/328/golf-bit/game.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "hero-rush-td",
+    "title": "Hero Rush Tower Defense",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "Place a few defences and watch a small strategy plan take shape.",
+    "editorNote": "Hero Rush Tower Defense is a light strategy option, not a silent relaxation game. It suits moments when you want to make a few simple placement choices and observe the result, with a natural stop at the end of a wave. Choose a short round instead of trying to optimise everything at once.",
+    "controls": "Use the mouse to place and upgrade defences.",
+    "sourceUrl": "https://www.onlinegames.io/games/2023/unity/hero-rush-tower-defense/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "jungle-mart",
+    "title": "Jungle Mart",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Stock a cheerful little market and complete one tidy loop.",
+    "editorNote": "Jungle Mart is selected for its clear stocking-and-serving rhythm and friendly animal setting. It can get more active as the store grows, so begin with a small target such as filling one shelf. The appeal is visible order and small progress, not competitive speed.",
+    "controls": "Use the mouse to stock shelves, serve customers, and manage upgrades.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2026/construct/339/jungle-mart/game.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "love-tester",
+    "title": "Love Tester",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "A deliberately silly one-minute novelty for a quick smile.",
+    "editorNote": "Love Tester is not a puzzle or a serious result tool; it is a lightweight novelty game. It belongs in the collection because it has no learning curve and a natural end after one playful check. Use it as a tiny break, and do not treat its output as meaningful advice.",
+    "controls": "Enter names and use the mouse to run the playful test.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/3/love-tester/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "nova-clicker",
+    "title": "Nova Clicker",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "Tap through a simple space-themed progress loop at your own pace.",
+    "editorNote": "Nova Clicker is a low-demand incremental game with a clear action and visible progress. It is useful for a short idle-style distraction, but it is easy to keep clicking longer than planned. Decide on one upgrade or a few minutes before starting, then use that as the end point.",
+    "controls": "Click to generate energy and choose upgrades with the mouse.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2024/construct/314/nova-clicker/index-og.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "nova-craft",
+    "title": "Nova Craft",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Combine small discoveries in a calm crafting-and-merge loop.",
+    "editorNote": "Nova Craft gives you a compact discovery loop: combine, reveal, and decide what to try next. It is a better fit for a curious short break than a fast score chase. The board is easiest to enjoy when you follow one small recipe or experiment rather than trying to unlock everything.",
+    "controls": "Use the mouse to combine items and discover new crafting results.",
+    "sourceUrl": "https://cloud.onlinegames.io/games/2024/more2/nova-craft/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "pinball-simulator",
+    "title": "Pinball Simulator",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "A classic table game for a brief, energetic change of pace.",
+    "editorNote": "Pinball Simulator is more lively than our quiet puzzles, so it is included as a short-focus option rather than a relaxation promise. The rules are familiar and one ball creates a natural boundary. Play one table or one ball when you want a quick burst of attention.",
+    "controls": "Use the keyboard or on-screen controls to operate the flippers.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/unity2/pinball-simulator/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "poop-clicker",
+    "title": "Poop Clicker",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "A deliberately goofy clicker for a short, no-stakes pause.",
+    "editorNote": "Poop Clicker is here for players who want something unserious and easy to leave behind. Its incremental loop has no complex rule to learn, but it is intentionally silly rather than calming. Set a small upgrade goal, laugh at the premise, and move on.",
+    "controls": "Click with the mouse to earn points and choose upgrades.",
+    "sourceUrl": "https://www.onlinegames.io/games/2024/construct/292/poop-clicker/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "stack-fire-ball",
+    "title": "Stack Fire Ball",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "Break through colourful layers in a simple one-action arcade loop.",
+    "editorNote": "Stack Fire Ball is a more energetic pick for a very short reset. It does not need a long tutorial, and each attempt gives an immediate stopping point. It is not the best fit if you want a quiet, unhurried puzzle; choose it when a little visual momentum sounds better.",
+    "controls": "Click or hold to send the ball through the stack while avoiding obstacles.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/unity/stack-fire-ball/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "tractor-farming",
+    "title": "Tractor Farming Simulator",
+    "labels": [
+      "low-stakes",
+      "cozy-task",
+      "short-break"
+    ],
+    "shortReason": "Work through a rural farming task with a steady, methodical pace.",
+    "editorNote": "Tractor Farming Simulator fits people who enjoy a slow, practical task more than a puzzle board. Driving and harvesting take a little more attention, but the farm setting provides a clear, concrete routine. Choose one field or one delivery as your natural stopping point.",
+    "controls": "Use the keyboard to drive and follow the on-screen prompts for farm tasks.",
+    "sourceUrl": "https://www.onlinegames.io/games/2022/unity/tractor-farming-simulator/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "treasure-hunter",
+    "title": "Treasure Hunter",
+    "labels": [
+      "short-break",
+      "low-stakes",
+      "mouse-friendly"
+    ],
+    "shortReason": "Explore compact paths and collect a few discoveries at a time.",
+    "editorNote": "Treasure Hunter is a gentle adventure choice for a player who wants a little exploration without a big campaign. It has more movement and platforming than our no-timer puzzles, so it is best treated as light focus. Stop after one discovery or a completed area rather than pushing through every level.",
+    "controls": "Use the keyboard to move and jump, and the mouse when prompted.",
+    "sourceUrl": "https://www.onlinegames.io/games/2022/construct/164/treasure-hunter/index.html",
+    "embedPermission": "publisher-iframe-source"
+  },
+  {
+    "slug": "wedding-beauty-salon",
+    "title": "Wedding Beauty Salon",
+    "labels": [
+      "short-break",
+      "mouse-friendly",
+      "cozy-task"
+    ],
+    "shortReason": "Make a small style choice and finish one creative makeover.",
+    "editorNote": "Wedding Beauty Salon is a creative, task-based pick with a clear visual outcome. It works when you want to make simple choices and see a before-and-after result, not when you want a hard puzzle. Give yourself one look to finish, then let that be the end of the session.",
+    "controls": "Use the mouse to choose makeup, hair, dresses, and accessories.",
+    "sourceUrl": "https://www.onlinegames.io/games/2021/2/wedding-beauty-salon/index.html",
+    "embedPermission": "publisher-iframe-source"
+  }
 ]

@@ -9,7 +9,10 @@ for (const game of games) {
   slugs.add(game.slug);
   if (!game.labels.every((label) => allowedLabels.has(label))) throw new Error(`Invalid label on ${game.slug}`);
   if (!game.sourceUrl.startsWith('https://')) throw new Error(`Invalid source URL on ${game.slug}`);
+  if (!new URL(game.sourceUrl).hostname.endsWith('onlinegames.io')) throw new Error(`Unapproved source host on ${game.slug}`);
   if (!game.editorNote || game.editorNote.length < 120) throw new Error(`Editor note is too short on ${game.slug}`);
 }
+
+if (games.length !== 30) throw new Error(`Expected 30 editorial games, found ${games.length}`);
 
 console.log(`${games.length} editorial records valid`);

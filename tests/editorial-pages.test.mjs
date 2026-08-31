@@ -8,3 +8,10 @@ test('generated pages are crawlable and advertising-free', async () => {
   assert.match(html, /<iframe[^>]+onlinegames\.io/);
   assert.doesNotMatch(html, /adsbygoogle|pagead2\.googlesyndication/);
 });
+
+test('all-picks directory exposes the complete editorial collection', async () => {
+  const html = await readFile('games/index.html', 'utf8');
+  assert.match(html, /30 Browser Games/);
+  assert.match(html, /href="\/games\/wedding-beauty-salon\.html"/);
+  assert.doesNotMatch(html, /adsbygoogle|pagead2\.googlesyndication/);
+});

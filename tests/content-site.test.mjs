@@ -1,12 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile, readdir } from 'node:fs/promises';
+import guides from '../data/editorial-guides.mjs';
 
 const read = (path) => readFile(path, 'utf8');
 const proseWords = (html) => html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<[^>]*>/g, ' ').match(/[A-Za-z]+(?:['’-][A-Za-z]+)*/g)?.length ?? 0;
-const guideSlugs = ['no-timer-puzzle-games', 'relaxing-browser-games-for-a-break', 'gentle-mouse-games', 'quiet-card-games-online', 'satisfying-short-games', 'low-pressure-puzzle-games'];
+const guideSlugs = guides.map((guide) => guide.slug);
 
 test('guides are substantial, distinct editorial pages with one future ad position', async () => {
+  assert.equal(guideSlugs.length, 9);
   const guides = await Promise.all(guideSlugs.map(async (slug) => [slug, await read(`guides/${slug}.html`)]));
   const headings = guides.map(([, html]) => html.match(/<h1>([^<]+)<\/h1>/)?.[1]);
   assert.equal(new Set(headings).size, guideSlugs.length);
